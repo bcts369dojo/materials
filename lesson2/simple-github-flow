@@ -1,0 +1,54 @@
+// Github Flow
+digraph {
+	"作業開始" [label="作業開始" fontstyle=bold]
+	"現在のブランチがmaster
+であることを確認
+git branch" [label="現在のブランチがmaster
+であることを確認
+git branch" color=pink fontstyle=bold style=filled]
+	"作業用ブランチ作成
+git checkout -b work-branch" [label="作業用ブランチ作成
+git checkout -b work-branch" color=pink fontsize=10 fontstyle=bold style=filled]
+	"実装完了？" [label="実装完了？" color=orange fontstyle=bold shape=diamond style="rounded,filled"]
+	"コミット
+git add .
+git commit -m 'comment'" [label="コミット
+git add .
+git commit -m 'comment'" color=pink fontstyle=bold style=filled]
+	"ブランチの作業をプッシュ
+ git push -u origin work-branch" [label="ブランチの作業をプッシュ
+ git push -u origin work-branch" color=pink fontstyle=bold style=filled]
+	"プルリクエスト" [label="プルリクエスト" color=lightblue fontstyle=bold style=filled]
+	"レビュー・相談" [label="レビュー・相談" color=lightblue fontstyle=bold style=filled]
+	"レビューOK" [label="レビューOK" color=orange fontstyle=bold shape=diamond style="rounded,filled"]
+	"プルリクエストを閉じる" [label="プルリクエストを閉じる" color=lightblue fontstyle=bold style=filled]
+	"マージ" [label="マージ" color=lightblue fontstyle=bold style=filled]
+	"マージ" [label="マージ" color=lightblue fontstyle=bold style=filled]
+	"マージ" [label="マージ" fontstyle=bold]
+	"終了" [label="終了" fontstyle=bold]
+	"作業開始" -> "現在のブランチがmaster
+であることを確認
+git branch" [label="  git branch" fontsize=10]
+	"現在のブランチがmaster
+であることを確認
+git branch" -> "作業用ブランチ作成
+git checkout -b work-branch" [label="  git checkout -b new-branch" fontsize=10]
+	"作業用ブランチ作成
+git checkout -b work-branch" -> "設計、実装作業"
+	"設計、実装作業" -> "実装完了？"
+	"実装完了？" -> "コミット
+git add .
+git commit -m 'comment'" [label=Yes fontsize=10]
+	"コミット
+git add .
+git commit -m 'comment'" -> "ブランチの作業をプッシュ
+ git push -u origin work-branch"
+	"ブランチの作業をプッシュ
+ git push -u origin work-branch" -> "プルリクエスト"
+	"プルリクエスト" -> "レビュー・相談"
+	"レビュー・相談" -> "レビューOK"
+	"レビューOK" -> "プルリクエストを閉じる" [label=" Y" fontsize=10 fontstyle=bold]
+	"レビューOK" -> "設計、実装作業" [label=" N" fontsize=10 fontstyle=bold]
+	"プルリクエストを閉じる" -> "マージ"
+	"マージ" -> "終了"
+}
