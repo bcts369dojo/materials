@@ -25,7 +25,7 @@ node_end = "終了"
 
 dot.node(node_start, node_start, fontstyle="bold")
 dot.node(node_master_branch, node_master_branch, style="filled", color='pink', fontstyle="bold")
-dot.node(node_create_branch, node_create_branch, style="filled", color='pink', fontstyle="bold", fontsize="10")
+dot.node(node_create_branch, node_create_branch, style="filled", color='pink', fontstyle="bold")
 dot.node(node_if1, node_if1, shape="diamond", style="rounded,filled", color='orange', fontstyle="bold")
 dot.node(node_commit, node_commit, style="filled", color='pink', fontstyle="bold")
 dot.node(node_push_remote, node_push_remote, style="filled", color='pink', fontstyle="bold")
@@ -39,9 +39,9 @@ dot.node(node_merge, node_merge, fontstyle="bold")
 dot.node(node_end, node_end, fontstyle="bold")
 
 ############### エッジ
-cmd_label1 = "  git branch"
+cmd_label1 = ""
 dot.edge(node_start, node_master_branch, label=cmd_label1, fontsize="10")
-cmd_label = "  git checkout -b new-branch"
+cmd_label = ""
 dot.edge(node_master_branch, node_create_branch, label=cmd_label, fontsize="10")
 dot.edge(node_create_branch, node_design)
 dot.edge(node_design, node_if1)
