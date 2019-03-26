@@ -47,8 +47,8 @@ git commit -m 'comment'" -> "ブランチの作業をプッシュ
  git push -u origin work-branch" -> "プルリクエスト"
 	"プルリクエスト" -> "レビュー・相談"
 	"レビュー・相談" -> "レビューOK"
-	"レビューOK" -> "プルリクエストを閉じる" [label=" Y" fontsize=10 fontstyle=bold]
+	"レビューOK" -> "マージ" [label=" Y" fontsize=10 fontstyle=bold]
 	"レビューOK" -> "設計、実装作業" [label=" N" fontsize=10 fontstyle=bold]
-	"プルリクエストを閉じる" -> "マージ"
-	"マージ" -> "終了"
+	"マージ" -> "プルリクエストを閉じる"
+	"プルリクエストを閉じる" -> "終了"
 }
