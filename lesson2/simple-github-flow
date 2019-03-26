@@ -8,7 +8,7 @@ git branch" [label="現在のブランチがmaster
 git branch" color=pink fontstyle=bold style=filled]
 	"作業用ブランチ作成
 git checkout -b work-branch" [label="作業用ブランチ作成
-git checkout -b work-branch" color=pink fontsize=10 fontstyle=bold style=filled]
+git checkout -b work-branch" color=pink fontstyle=bold style=filled]
 	"実装完了？" [label="実装完了？" color=orange fontstyle=bold shape=diamond style="rounded,filled"]
 	"コミット
 git add .
@@ -28,11 +28,11 @@ git commit -m 'comment'" color=pink fontstyle=bold style=filled]
 	"終了" [label="終了" fontstyle=bold]
 	"作業開始" -> "現在のブランチがmaster
 であることを確認
-git branch" [label="  git branch" fontsize=10]
+git branch" [label="" fontsize=10]
 	"現在のブランチがmaster
 であることを確認
 git branch" -> "作業用ブランチ作成
-git checkout -b work-branch" [label="  git checkout -b new-branch" fontsize=10]
+git checkout -b work-branch" [label="" fontsize=10]
 	"作業用ブランチ作成
 git checkout -b work-branch" -> "設計、実装作業"
 	"設計、実装作業" -> "実装完了？"
