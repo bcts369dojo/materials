@@ -135,18 +135,11 @@ https://github.com/xflr6/graphviz
 
 ### Official
 
-Hello World · GitHub Guide
-https://guides.github.com/activities/hello-world/
+- [Hello World · GitHub Guide]( https://guides.github.com/activities/hello-world/)
 
 ### Other
 
-GitHub Flow (Japanese translation)
-https://gist.github.com/Gab-km/3705015
-
-GitHub Flowで開発するときの流れをまとめてみる
-https://reasonable-code.com/github-flow/
-
-GitHub Flow 図解 - Qiita
-https://qiita.com/tbpgr/items/4ff76ef35c4ff0ec8314
-
+- [GitHub Flow (Japanese translation)](https://gist.github.com/Gab-km/3705015)
+- [GitHub Flowで開発するときの流れをまとめてみる](https://reasonable-code.com/github-flow/)
+- [GitHub Flow 図解 - Qiita](https://qiita.com/tbpgr/items/4ff76ef35c4ff0ec8314)
 
