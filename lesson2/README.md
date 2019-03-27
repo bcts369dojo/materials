@@ -122,14 +122,13 @@ GitHubでのリポジトリ管理、運用は100%覚えなければいけない�
 
 今後の殆どのレッスンでは、リポジトリ操作が必須となり、さらに`Issue`や`Project`という概念が入ってきます。
 
-## その他
+## Graphviz
 
 このドキュメントで使用しているフローの画像はPythonのツールを使用して、コードで書いています。
 興味のある人はご覧ください（simple-github-flow.py）。
 
 
-xflr6/graphviz: Simple Python interface for Graphviz
-https://github.com/xflr6/graphviz
+[xflr6/graphviz: Simple Python interface for Graphviz](https://github.com/xflr6/graphviz)
 
 
 ## 参考情報へのリンク
