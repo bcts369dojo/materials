@@ -82,8 +82,8 @@ git-flowでは、ブランチでの作業をローカルで行いdevelopブラ�
 
 ```toml
 [Profile]
-    nickname: hoge
-    age: 99
+    nickname = hoge
+    age = 99
 ```
 
 作業対象リポジトリは、生徒各自が作成した`bcts369dojo`です。
