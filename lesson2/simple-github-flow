@@ -25,6 +25,7 @@ git commit -m 'comment'" color=pink fontstyle=bold style=filled]
 	"マージ" [label="マージ" color=lightblue fontstyle=bold style=filled]
 	"マージ" [label="マージ" color=lightblue fontstyle=bold style=filled]
 	"マージ" [label="マージ" fontstyle=bold]
+	"作業用ブランチを削除" [label="作業用ブランチを削除" color=lightblue fontstyle=bold style=filled]
 	"終了" [label="終了" fontstyle=bold]
 	"作業開始" -> "現在のブランチがmaster
 であることを確認
@@ -50,5 +51,6 @@ git commit -m 'comment'" -> "ブランチの作業をプッシュ
 	"レビューOK" -> "マージ" [label=" Y" fontsize=10 fontstyle=bold]
 	"レビューOK" -> "設計、実装作業" [label=" N" fontsize=10 fontstyle=bold]
 	"マージ" -> "プルリクエストを閉じる"
-	"プルリクエストを閉じる" -> "終了"
+	"プルリクエストを閉じる" -> "作業用ブランチを削除"
+	"作業用ブランチを削除" -> "終了"
 }

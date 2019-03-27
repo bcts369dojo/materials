@@ -36,6 +36,7 @@ dot.node(node_pull_request_close, node_pull_request_close, style="filled", color
 dot.node(node_merge, node_merge, style="filled", color='lightblue', fontstyle="bold")
 dot.node(node_merge, node_merge, style="filled", color='lightblue', fontstyle="bold")
 dot.node(node_merge, node_merge, fontstyle="bold")
+dot.node(node_delete_topic_blanch, node_delete_topic_blanch, style="filled", color='lightblue', fontstyle="bold")
 dot.node(node_end, node_end, fontstyle="bold")
 
 ############### エッジ
@@ -52,6 +53,7 @@ dot.edge(node_review, node_if2)
 dot.edge(node_if2, node_merge, label=" Y", fontsize="10", fontstyle="bold")
 dot.edge(node_if2, node_design, label=" N", fontsize="10", fontstyle="bold")
 dot.edge(node_merge, node_pull_request_close)
-dot.edge(node_pull_request_close, node_end)
+dot.edge(node_pull_request_close, node_delete_topic_blanch)
+dot.edge(node_delete_topic_blanch, node_end)
 
 dot.render("simple-github-flow")
