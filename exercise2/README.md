@@ -67,7 +67,7 @@ git-flowでは、ブランチでの作業をローカルで行いdevelopブラ�
 
 ![Github Flow](simple-github-flow.png)
 
-## 理解度チェック１
+## 理解度チェック
 
 ### シナリオ
 
