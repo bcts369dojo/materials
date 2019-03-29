@@ -1,0 +1,38 @@
+# Exercise1 Markdown
+
+参考情報へのリンクのサイトを読んで、Markdown記法で文章を書けるようにしてください
+
+道場入門者の方は、まず今後の指導で必須となるMarkdownでの記述ができるよう、自習をお願いします。
+
+記法については、Githubが独自拡張しているMarkdown記法を道場の公式記法とします。
+
+
+今後のIT業界でMarkdown記法で文章も書けない人は、かなり困った人扱いされるので真剣に取り組みましょう。
+
+
+## 理解度チェック
+
+次のリンク先（Github Gist）のとおりに表示されるよう、Markdown記法で書いてください。
+どのように書かれているか、見ることもできますが、自分のためになりませんのでズルをせずに考えてみてください。
+
+
+[Markdownテスト問題](https://gist.github.com/bcts369/855b44f5de5a9962e84252bcf4b68934)
+
+
+## 参考情報へのリンク
+
+### Official
+https://guides.github.com/features/mastering-markdown/
+
+### Other
+
+https://github.github.com/gfm/
+
+
+### ツール
+
+- https://stackedit.io/
+- https://boostnote.io/
+- https://typora.io/
+
+もちろん、VSCodeも標準プラグインで対応されています。
