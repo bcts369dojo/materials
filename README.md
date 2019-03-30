@@ -3,6 +3,9 @@
 - [Exercise1 Markdown](./exercises/exercise1)
 - [Exercise2 GitHub Flow](./exercises/exercise2)
 - [Exercise3 Issues](./exercises/exercise3)
+- Exercise4 Labels
+- Exercise5 Projects
+- Develop Environment
 
 ## Recommend Tools
 
