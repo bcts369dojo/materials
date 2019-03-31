@@ -5,10 +5,12 @@
 - [Exercise1 Markdown](./exercises/exercise1)
 - [Exercise2 GitHub Flow](./exercises/exercise2)
 - [Exercise3 GitHub Issues](./exercises/exercise3)
+- Exercise5 GitHub Projects
 - Exercise4 GitHub Labels
 - Exercise5 GitHub Projects
-- Develop Environment Shells
 - Develop Environment git
+- Develop Environment shell
+- Develop Environment golang
 
 ## Sutra Copying
 
