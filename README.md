@@ -1,5 +1,7 @@
 # materials
 
+## Exercise
+
 - [Exercise1 Markdown](./exercises/exercise1)
 - [Exercise2 GitHub Flow](./exercises/exercise2)
 - [Exercise3 GitHub Issues](./exercises/exercise3)
@@ -7,6 +9,12 @@
 - Exercise5 GitHub Projects
 - Develop Environment Shells
 - Develop Environment git
+
+## Sutra Copying
+
+- [Go](./sutra-copying/golang)
+- [Markdown](./sutra-copying/markdown)
+
 
 ## Recommend Tools
 
