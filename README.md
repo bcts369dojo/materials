@@ -7,8 +7,15 @@
 - [Exercise3 GitHub Issues](./exercises/exercise3)
 - Exercise4 GitHub Labels
 - Exercise5 GitHub Projects
-- Develop Environment Shells
+- Exercise6 GitHub Misc
+- Exercise7 GitHub Pages
 - Develop Environment git
+- Develop Environment shell
+- Develop Environment golang
+- Develop Environment tools
+- Exercise8 Go Basics1
+- Exercise9 Go Basics2
+
 
 ## Sutra Copying
 
