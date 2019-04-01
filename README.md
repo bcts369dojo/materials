@@ -40,5 +40,5 @@
 
 - [The Go Playground](https://play.golang.org/)
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
-
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md)
+- [無料で暗号資産をもらって増やす方法](https://bcts369.github.io/faucetinfo/#0)
