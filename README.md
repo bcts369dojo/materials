@@ -15,7 +15,11 @@
 - Develop Environment tools
 - Exercise8 Go Basics1
 - Exercise9 Go Basics2
-
+- ...
+- Automated trading bot for crypto assets
+- GitHub API
+- Google Spread Sheets
+- gRPC-Web
 
 ## Sutra Copying
 
