@@ -5,7 +5,7 @@
 - [Exercise1 Markdown](./exercises/exercise1)
 - [Exercise2 GitHub Flow](./exercises/exercise2)
 - [Exercise3 GitHub Issues](./exercises/exercise3)
-- Exercise4 GitHub Labels
+- [Exercise4 GitHub Labels](./exercises/exercise4)
 - Exercise5 GitHub Projects
 - Exercise6 GitHub Misc
 - Exercise7 GitHub Pages
