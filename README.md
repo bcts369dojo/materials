@@ -47,3 +47,5 @@
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md)
 - [無料で暗号資産をもらって増やす方法](https://bcts369.github.io/faucetinfo/#0)
+- [Go言語インストールガイド ver 1.12](https://gist.github.com/bcts369/6c8c9a16091b300439cb57d6955b4674)
+
