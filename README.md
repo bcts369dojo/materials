@@ -11,7 +11,8 @@
 - Develop Environment shell
 - Exercise6 GitHub Misc: Private Access Token
 - Exercise7 GitHub Misc: 2FA
-- Exercise8 GitHub Pages
+- Exercise8 GitHub Pages Basic
+- Exercise8 GitHub Pages with Hugo
 - Develop Environment golang
 - Develop Environment tools
 - Exercise8 Go Basics1
