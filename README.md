@@ -7,10 +7,11 @@
 - [Exercise3 GitHub Issues](./exercises/exercise3)
 - [Exercise4 GitHub Labels](./exercises/exercise4)
 - Exercise5 GitHub Projects
-- Exercise6 GitHub Misc
-- Exercise7 GitHub Pages
 - Develop Environment git
 - Develop Environment shell
+- Exercise6 GitHub Misc: Private Access Token
+- Exercise7 GitHub Misc: 2FA
+- Exercise8 GitHub Pages
 - Develop Environment golang
 - Develop Environment tools
 - Exercise8 Go Basics1
