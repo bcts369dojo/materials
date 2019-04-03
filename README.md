@@ -6,7 +6,7 @@
 - [Exercise2 GitHub Flow](./exercises/exercise2)
 - [Exercise3 GitHub Issues](./exercises/exercise3)
 - [Exercise4 GitHub Labels](./exercises/exercise4)
-- Exercise5 GitHub Projects
+- Exercise5 GitHub Projects Part1
 - Develop Environment git
 - Develop Environment shell
 - Exercise6 GitHub Misc: Private Access Token
