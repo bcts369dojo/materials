@@ -10,14 +10,14 @@
 - Exercise6 GitHub Issue and PRs templates
 - Develop Environment git
 - Develop Environment shell
-- Exercise6 GitHub Misc: Private Access Token
-- Exercise7 GitHub Misc: 2FA
-- Exercise8 GitHub Pages Basic
-- Exercise8 GitHub Pages with Hugo
+- Exercise7 GitHub Misc: Private Access Token
+- Exercise8 GitHub Misc: 2FA
+- Exercise9 GitHub Pages Basic
+- Exercise10 GitHub Pages with Hugo
 - Develop Environment golang
 - Develop Environment tools
-- Exercise8 Go Basics1
-- Exercise9 Go Basics2
+- Exercise11 Go Basics1
+- Exercise12 Go Basics2
 - ...
 - Automated trading bot for crypto assets
 - GitHub API
