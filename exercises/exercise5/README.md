@@ -1,4 +1,4 @@
-# Exercise5 Projects
+# Exercise5 Projects Part1
 
 `Projects`は**カンバン方式**のタスク管理機能です。
 
