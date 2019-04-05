@@ -7,17 +7,18 @@
 - [Exercise3 GitHub Issues](./exercises/exercise3)
 - [Exercise4 GitHub Labels](./exercises/exercise4)
 - [Exercise5 GitHub Projects Part1](./exercises/exercise5)
-- Exercise6 GitHub Issue and PRs templates
-- Develop Environment git
-- Develop Environment shell
-- Develop Environment golang
-- Develop Environment tools
-- Exercise7 GitHub Misc: Private Access Token
-- Exercise8 GitHub Misc: 2FA
-- Exercise9 GitHub Pages Basic
-- Exercise10 GitHub Pages with Hugo
-- Exercise11 Go Basics1
-- Exercise12 Go Basics2
+- [Exercise6 Develop Environment shell](./exercises/exercise6)
+- Exercise7 Develop Environment git
+- Exercise8 Develop Environment golang
+- Exercise9 Develop Environment tools
+- Exercise10 GitHub Misc: Private Access Token
+- Exercise11 GitHub Misc: 2FA
+- Exercise12 GitHub Pages Basic
+- Exercise13 GitHub Pages with Hugo
+- Exercise14 Go Basics1
+- Exercise15 Go Basics2
+- Exercise16 GitHub Issue and PRs templates
+
 - ...
 - Automated trading bot for crypto assets
 - GitHub API
@@ -50,4 +51,5 @@
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md)
 - [無料で暗号資産をもらって増やす方法](https://bcts369.github.io/faucetinfo/#0)
 - [Go言語インストールガイド ver 1.12](https://gist.github.com/bcts369/6c8c9a16091b300439cb57d6955b4674)
+
 
