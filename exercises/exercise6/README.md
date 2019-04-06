@@ -61,7 +61,3 @@ ls ~/.oh-my-zsh
 - https://qiita.com/Angelan1720/items/60431c85592fe90fcdd5
 - https://qiita.com/rspepe/items/9e30e698c4fc3e90891d
 - https://github.com/sorin-ionescu/prezto
-
-```sh
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
