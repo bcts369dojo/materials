@@ -20,12 +20,22 @@
 - Exercise16 GitHub Issue and PRs templates
 
 - ... 以下は検討中で順番も未定
+- API Access
+- OAuth
 - Creating exchange account for Crypto Assets
 - Heroku
 - Automated trading bot for crypto assets
 - GitHub API
 - Google Spread Sheets
 - gRPC-Web
+- Google Cloud
+- AWS
+- Database Part1 SQL
+- Database Part2 NOSQL
+- Database Part3 Local Database
+- Scraping
+
+
 
 ## Sutra Copying
 
