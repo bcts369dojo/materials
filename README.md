@@ -19,7 +19,9 @@
 - Exercise15 Go Basics2
 - Exercise16 GitHub Issue and PRs templates
 
-- ...
+- ... 以下は検討中で順番も未定
+- Creating exchange account for Crypto Assets
+- Heroku
 - Automated trading bot for crypto assets
 - GitHub API
 - Google Spread Sheets
