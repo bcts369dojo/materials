@@ -8,7 +8,7 @@
 - [Exercise4 GitHub Labels](./exercises/exercise4)
 - [Exercise5 GitHub Projects Part1](./exercises/exercise5)
 - [Exercise6 Develop Environment shell](./exercises/exercise6)
-- Exercise7 Develop Environment git
+- [Exercise7 Develop Environment git](./exercises/exercise7)
 - Exercise8 Develop Environment golang
 - Exercise9 Develop Environment tools
 - Exercise10 GitHub Misc: Private Access Token
