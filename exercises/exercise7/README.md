@@ -48,4 +48,4 @@ gitは現在最も使われているバージョン管理システムです。�
 - [macOS 用パッケージマネージャー — macOS 用パッケージマネージャー](https://brew.sh/index_ja)
 - [How To Install Git on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-18-04-quickstart)
 - [macOS Mojave で Git を Homebrew 管理下に変更したときの顛末 - Qiita](https://qiita.com/H-R3N/items/45f98e8242899093c7e6)
-
+- [GitHub Desktopのリンク先はこちらをご覧ください](https://github.com/bcts369dojo/materials#recommend-tools)
