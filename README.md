@@ -52,6 +52,8 @@
 - [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/)
 - [junegunn/fzf: A command-line fuzzy finder](https://spectrum.chat/bcts369dojo/general/fzf~28cc3a45-cc02-4253-886d-5800b3c4a84a)
 - [Oh My Zsh - a delightful & open source framework for Z-Shell](https://ohmyz.sh/)
+- [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
+- [nbedos/termtosvg: Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg)
 
 ## Recommend Services
 
