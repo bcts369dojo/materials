@@ -72,4 +72,8 @@
 - [無料で暗号資産をもらって増やす方法](https://bcts369.github.io/faucetinfo/#0)
 - [Go言語インストールガイド ver 1.12](https://gist.github.com/bcts369/6c8c9a16091b300439cb57d6955b4674)
 - [avelino/awesome-go: A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
+- [Franz – a free messaging app for Slack, Facebook Messenger, WhatsApp, Telegram and more](https://meetfranz.com/)
+- [github/hub: A command-line tool that makes git easier to use with GitHub.](https://github.com/github/hub)
+
+
 
