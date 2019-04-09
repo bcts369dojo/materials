@@ -58,6 +58,7 @@
 ## Recommend Services
 
 - [Airtable](https://airtable.com/)
+- [継続的インテグレーション・継続的デリバリー - CircleCI](https://circleci.jp/)
 
 ## Gopher
 
@@ -74,6 +75,5 @@
 - [avelino/awesome-go: A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
 - [Franz – a free messaging app for Slack, Facebook Messenger, WhatsApp, Telegram and more](https://meetfranz.com/)
 - [github/hub: A command-line tool that makes git easier to use with GitHub.](https://github.com/github/hub)
-
-
+- [Download Python | Python.org](https://www.python.org/downloads/)
 
