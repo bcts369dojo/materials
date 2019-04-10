@@ -42,6 +42,9 @@
 - Using Libraries
 - Create Libraries for yourself
 
+## Tips
+
+- Userful commands on the terminal
 
 ## Sutra Copying
 
