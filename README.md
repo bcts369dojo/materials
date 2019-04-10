@@ -45,8 +45,13 @@
 - GitHub, GitLab, BitBuscket
 
 ## Tips
-
-- Userful commands on the terminal
+- 基本的な検索の仕方
+    - スクリーンショットの撮り方
+- 技術的に困ったら、まずここで検索すべき！
+- 質問の仕方
+- ターミナル（黒い画面？）でよく使うコマンド
+- バックアップについて
+- VSCodeに導入しておくべきプラグイン（主にGo言語用）
 
 ## Sutra Copying
 
