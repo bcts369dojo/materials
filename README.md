@@ -34,10 +34,13 @@
 - Database Part2 NOSQL
 - Database Part3 Local Database
 - Scraping
-- 契約書など
 - 環境変数の取扱
 - Testing
 - CI（継続的インテグレーション）
+- Commandline (CLI)
+- Makefile
+- Using Libraries
+- Create Libraries for yourself
 
 
 ## Sutra Copying
