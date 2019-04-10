@@ -42,6 +42,7 @@
 - Using Libraries
 - Create Libraries for yourself
 - GitHubは自分の情報やデータの倉庫置き場としても十分使える
+- GitHub, GitLab, BitBuscket
 
 ## Tips
 
