@@ -36,7 +36,8 @@
 - Scraping
 - 契約書など
 - 環境変数の取扱
-
+- Testing
+- CI（継続的インテグレーション）
 
 
 ## Sutra Copying
@@ -76,4 +77,4 @@
 - [Franz – a free messaging app for Slack, Facebook Messenger, WhatsApp, Telegram and more](https://meetfranz.com/)
 - [github/hub: A command-line tool that makes git easier to use with GitHub.](https://github.com/github/hub)
 - [Download Python | Python.org](https://www.python.org/downloads/)
-
+- [GitHub TopStars](http://github-topstars.hellopeople.jp/)
