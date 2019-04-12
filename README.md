@@ -1,6 +1,19 @@
 # materials
 
+## Develop Environment
+
+- Shell
+- git
+- golang
+- tools
+- GitHub Private Access Token
+- GitHub 2FA
+- python
+
+
 ## Exercise
+
+エクササイズ番号は調整中
 
 - [Exercise1 Markdown](./exercises/exercise1)
 - [Exercise2 GitHub Flow](./exercises/exercise2)
@@ -10,9 +23,6 @@
 - [Exercise6 Develop Environment shell](./exercises/exercise6)
 - [Exercise7 Develop Environment git](./exercises/exercise7)
 - [Exercise8 Develop Environment golang](./exercises/exercise8)
-- Exercise9 Develop Environment tools
-- Exercise10 GitHub Misc: Private Access Token
-- Exercise11 GitHub Misc: 2FA
 - Exercise12 GitHub Pages Basic
 - Exercise13 GitHub Pages with Hugo
 - Exercise14 Go Basics1
