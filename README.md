@@ -94,8 +94,8 @@
 - [GitHub TopStars](http://github-topstars.hellopeople.jp/)
 - [Gobot - Golang framework for robotics, drones, and the Internet of Things (IoT)](https://gobot.io/)
 
-## 破門対象となる行為、態度について
-
-どんなに優秀であろうが、私の指導に従わない人は破門対象とします。
+## 指導どおりの環境構築をしていない場合。
 
 以下、追加していきます。
+
+- 環境構築に関して、指定通りのインストールをしなかった場合は、以降に発生した問題について全て、自分自身で解決してください。
