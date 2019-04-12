@@ -8,7 +8,7 @@
 - tools
 - GitHub Private Access Token
 - GitHub 2FA
-- python
+- [Python](https://github.com/bcts369dojo/materials/blob/master/docs/installing_python.md)
 
 
 ## Exercise
