@@ -30,6 +30,7 @@
 - Exercise16 GitHub Issue and PRs templates
 
 - ... 以下は検討中で順番も未定
+- 環境変数の取扱
 - API Access
 - OAuth
 - Creating exchange account for Crypto Assets
@@ -44,11 +45,11 @@
 - Database Part2 NOSQL
 - Database Part3 Local Database
 - Scraping
-- 環境変数の取扱
 - Testing
 - CI（継続的インテグレーション）
 - Commandline (CLI)
 - Makefile
+- クロスコンパイル
 - Using Libraries
 - Create Libraries for yourself
 - GitHubは自分の情報やデータの倉庫置き場としても十分使える
