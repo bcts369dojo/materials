@@ -54,9 +54,9 @@
 - GitHubは自分の情報やデータの倉庫置き場としても十分使える
 - GitHub, GitLab, BitBuscket
 
-## Tips
+## [Tips](https://github.com/bcts369dojo/materials/blob/master/tips/README.md)
 - 基本的な検索の仕方
-    - スクリーンショットの撮り方
+- スクリーンショットの撮り方
 - 技術的に困ったら、まずここで検索すべき！
 - 質問の仕方
 - ターミナル（黒い画面？）でよく使うコマンド
