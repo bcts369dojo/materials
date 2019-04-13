@@ -1,4 +1,4 @@
-# materials
+# materials for bcts369dojo
 
 ## Develop Environment
 
@@ -30,17 +30,13 @@
 - Exercise16 GitHub Issue and PRs templates
 
 - ... 以下は検討中で順番も未定
-- 環境変数の取扱
-- API Access
-- OAuth
-- Creating exchange account for Crypto Assets
-- Heroku
-- Automated trading bot for crypto assets
-- GitHub API
+- 環境変数をGoやPythonで使う
+- APIを利用する
+- 設定ファイルによってプログラムの動作を変える
+- OAuthによるユーザ認証
+- 暗号資産取引所のアカウント作成
+- 暗号資産の自動取引ボット
 - Google Spread Sheets
-- gRPC-Web
-- Google Cloud
-- AWS
 - Database Part1 SQL
 - Database Part2 NOSQL
 - Database Part3 Local Database
@@ -54,6 +50,11 @@
 - Create Libraries for yourself
 - GitHubは自分の情報やデータの倉庫置き場としても十分使える
 - GitHub, GitLab, BitBuscket
+- IoT
+- gRPC-Web
+- Google Cloud
+- AWS
+- Heroku
 
 ## [Tips](https://github.com/bcts369dojo/materials/blob/master/tips/README.md)
 - 基本的な検索の仕方
