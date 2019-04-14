@@ -31,16 +31,19 @@
 - [Exercise11 Go Basics3](./exercises/exercise11)
 
 - [Exercise12 環境変数をGoやPythonで使う（途中）](./exercises/exercise12)
-- Using Libraries
+- ライブラリを使用してみる
 - クロスコンパイル
 - Go言語でJSONを扱う
 - APIを利用する
 - 設定ファイルによってプログラムの動作を変える
 - Testing
 - Makefile
+- Golang Methods and interfaces
 
 ### 中級
 
+- 自分でライブラリを作成してみる
+- Golang Concurrency
 - CI（継続的インテグレーション）
 - OAuthによるユーザ認証
 - Create Libraries for yourself
@@ -57,6 +60,8 @@
 
 ### 中級以上
 
+中級程度の知識に加え、様々なWEBテクノロジーを利用して、１つのサービスやアプリを作り上げることができ、運用までできれば尚よし。
+
 - IoT
 - Google Cloud
 - AWS
@@ -64,6 +69,9 @@
 - Micro Services
 - gRPC-Web
 
+### 中級 ~ 上級初歩
+
+顧客の要望を実現するために、要件を定義し、提案、設計、開発、運用、保守ができる。
 
 ## Optionals
 
