@@ -1,16 +1,16 @@
-# Exercise9 Go Basic1
+# Exercise11 Go Basics3
 
-Goプログラムの基本的なコンポーネントを学びます。
+既存の型に基づいて新しい型を定義する方法を学ぶ: このレッスンでは構造体、配列、slice、map について説明します。
 
 ## はじめに
 
-師範である私も一番最初にGo言語を学んだのは、公式のチュートリアルです。生徒の皆さんが学ぶ場合はどれが良いのか調査してみましたが、やはり公式が一番良いと判断しました。他の言語を学んだことがない方にとっては、多少敷居が高いかもしれませんが、頑張って理解しましょう。
+他の言語を学んだことがない方にとっては、多少敷居が高いかもしれませんが、頑張って理解しましょう。
 
-なお、16項目全てが理解できなくても構いませんが、どれがわからなかったかは伝えてください。
+なお、25項目全てが理解できなくても構いませんが、どれがわからなかったかは伝えてください。
 
 また、プログラミング初心者向けの詳細な説明が少ないので、わからないことがあれば、参考情報へのリンク先やググるなどして調べてください。
 
-- [Packages, variables, and functions.](https://go-tour-jp.appspot.com/basics/1)
+- [More types: structs, slices, and maps](https://go-tour-jp.appspot.com/moretypes/1)
 
 **なお、最初の段階は、何故とか疑問に思ったり、詳細を調べるのではなく、「そういうもんか」程度に考えて、どちらかというとパターンを覚えるだけに徹すると良いと思います。**
 
@@ -26,5 +26,5 @@ Goプログラムの基本的なコンポーネントを学びます。
 ## 参考情報へのリンク
 
 - [Welcome to a tour of Go](https://go-tour-jp.appspot.com/list)
-- [Packages, variables, and functions.](https://go-tour-jp.appspot.com/basics/1)
+- [More types: structs, slices, and maps](https://go-tour-jp.appspot.com/moretypes/1)
 - [Goプログラミング言語仕様 - golang.jp](http://golang.jp/go_spec)
