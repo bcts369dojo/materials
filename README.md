@@ -15,8 +15,9 @@
 
 ## Exercise
 
-エクササイズ番号は調整中
+リンクが有効でない項目は検討中であり、順番も未定
 
+### 初級
 - [Exercise1 Markdown](./exercises/exercise1)
 - [Exercise2 GitHub Flow](./exercises/exercise2)
 - [Exercise3 GitHub Issues](./exercises/exercise3)
@@ -29,33 +30,40 @@
 - [Exercise10 Go Basics2](./exercises/exercise10)
 - [Exercise11 Go Basics3](./exercises/exercise11)
 
-- ... 以下は検討中で順番も未定
-- 環境変数をGoやPythonで使う
+- [Exercise12 環境変数をGoやPythonで使う（途中）](./exercises/exercise12)
+- Using Libraries
+- クロスコンパイル
+- Go言語でJSONを扱う
 - APIを利用する
 - 設定ファイルによってプログラムの動作を変える
+- Testing
+- Makefile
+
+### 中級
+
+- CI（継続的インテグレーション）
 - OAuthによるユーザ認証
-- 暗号資産取引所のアカウント作成
-- 暗号資産の自動取引ボット
-- Google Spread Sheets
+- Create Libraries for yourself
 - Database Part1 SQL
 - Database Part2 NOSQL
 - Database Part3 Local Database
+- 開発中の失敗を体験し、どのように対応するのか体験する
+- TODOアプリ開発
+- GitHub Issue and PRs templates
 - Scraping
-- Testing
-- CI（継続的インテグレーション）
-- Commandline (CLI)
-- Makefile
-- クロスコンパイル
-- Using Libraries
-- Create Libraries for yourself
-- GitHubは自分の情報やデータの倉庫置き場としても十分使える
-- GitHub, GitLab, BitBuscket
+- 暗号資産取引所のアカウント作成
+- 暗号資産の自動取引ボット
+- Google Spread Sheets
+
+### 中級以上
+
 - IoT
-- gRPC-Web
 - Google Cloud
 - AWS
 - Heroku
-- GitHub Issue and PRs templates
+- Micro Services
+- gRPC-Web
+
 
 ## Optionals
 
@@ -69,6 +77,8 @@
 - 質問の仕方
 - ターミナル（黒い画面？）でよく使うコマンド
 - VSCodeに導入しておくべきプラグイン（主にGo言語用）
+- GitHubは自分の情報やデータの倉庫置き場としても十分使える
+- GitHub, GitLab, BitBuscket
 
 ## Sutra Copying
 

@@ -28,3 +28,4 @@ Goプログラムの基本的なコンポーネントを学びます。
 - [Welcome to a tour of Go](https://go-tour-jp.appspot.com/list)
 - [Packages, variables, and functions.](https://go-tour-jp.appspot.com/basics/1)
 - [Goプログラミング言語仕様 - golang.jp](http://golang.jp/go_spec)
+- [実践Go言語 - golang.jp](http://golang.jp/effective_go)
