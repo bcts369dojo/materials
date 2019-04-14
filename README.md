@@ -26,8 +26,8 @@
 - [Exercise7 Develop Environment git](./exercises/exercise7)
 - [Exercise8 Develop Environment golang](./exercises/exercise8)
 - [Exercise9 Go Basics1](./exercises/exercise9)
-- [Exercise9 Go Basics2](./exercises/exercise10)
-- [Exercise9 Go Basics3](./exercises/exercise11)
+- [Exercise10 Go Basics2](./exercises/exercise10)
+- [Exercise11 Go Basics3](./exercises/exercise11)
 
 - ... 以下は検討中で順番も未定
 - 環境変数をGoやPythonで使う
