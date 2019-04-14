@@ -25,9 +25,7 @@
 - [Exercise6 Develop Environment shell](./exercises/exercise6)
 - [Exercise7 Develop Environment git](./exercises/exercise7)
 - [Exercise8 Develop Environment golang](./exercises/exercise8)
-- Exercise14 Go Basics1
-- Exercise15 Go Basics2
-- Exercise16 GitHub Issue and PRs templates
+- [Exercise9 Go Basics1](./exercises/exercise9)
 
 - ... 以下は検討中で順番も未定
 - 環境変数をGoやPythonで使う
@@ -55,6 +53,7 @@
 - Google Cloud
 - AWS
 - Heroku
+- GitHub Issue and PRs templates
 
 ## Optionals
 
