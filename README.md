@@ -49,6 +49,7 @@
 
 - 自分でライブラリを作成してみる
 - Golang Concurrency
+- Docker
 - CI（継続的インテグレーション）
 - OAuthによるユーザ認証
 - Create Libraries for yourself
@@ -67,6 +68,7 @@
 
 中級程度の知識に加え、様々なWEBテクノロジーを利用して、１つのサービスやアプリを作り上げることができ、運用までできれば尚よし。
 
+- GraphQL
 - IoT
 - Google Cloud
 - AWS
