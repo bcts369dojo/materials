@@ -2,10 +2,12 @@
 
 ## Develop Environment
 
-- Shell
-- git
-- golang
-- tools
+本道場での学習や活動で必須となる開発環境です。
+
+- [Shell](./exercises/exercise6)
+- [git](./exercises/exercise7)
+- [Golang](./exercises/exercise8)
+- Tools
 - GitHub Private Access Token
 - GitHub 2FA
 - [Python](https://github.com/bcts369dojo/materials/blob/master/docs/installing_python.md)
@@ -23,8 +25,6 @@
 - [Exercise6 Develop Environment shell](./exercises/exercise6)
 - [Exercise7 Develop Environment git](./exercises/exercise7)
 - [Exercise8 Develop Environment golang](./exercises/exercise8)
-- Exercise12 GitHub Pages Basic
-- Exercise13 GitHub Pages with Hugo
 - Exercise14 Go Basics1
 - Exercise15 Go Basics2
 - Exercise16 GitHub Issue and PRs templates
@@ -56,13 +56,17 @@
 - AWS
 - Heroku
 
+## Optionals
+
+- Github Pagesを使用して簡単にポートフォリオサイトを作る
+- Github PagesとHugoを使用して簡単にポートフォリオサイトを作る
+
+
 ## [Tips](https://github.com/bcts369dojo/materials/blob/master/tips/README.md)
 - 基本的な検索の仕方
-- スクリーンショットの撮り方
 - 技術的に困ったら、まずここで検索すべき！
 - 質問の仕方
 - ターミナル（黒い画面？）でよく使うコマンド
-- バックアップについて
 - VSCodeに導入しておくべきプラグイン（主にGo言語用）
 
 ## Sutra Copying
@@ -98,7 +102,6 @@
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md)
 - [無料で暗号資産をもらって増やす方法](https://bcts369.github.io/faucetinfo/#0)
-- [Go言語インストールガイド ver 1.12](https://gist.github.com/bcts369/6c8c9a16091b300439cb57d6955b4674)
 - [avelino/awesome-go: A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
 - [Franz – a free messaging app for Slack, Facebook Messenger, WhatsApp, Telegram and more](https://meetfranz.com/)
 - [github/hub: A command-line tool that makes git easier to use with GitHub.](https://github.com/github/hub)
