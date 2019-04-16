@@ -37,6 +37,7 @@
 - ライブラリを使用してみる
 - クロスコンパイル
 - Go言語でJSONを扱う
+- Go言語でHCLを扱う
 - APIを利用する
 - 設定ファイルによってプログラムの動作を変える
 - Testing
@@ -64,6 +65,7 @@
 - 暗号資産取引所のアカウント作成
 - 暗号資産の自動取引ボット
 - Google Spread Sheets
+- GitHub Actions
 
 ### 中級以上
 
@@ -76,6 +78,7 @@
 - Heroku
 - Micro Services
 - gRPC-Web
+- DevOps
 
 ### 中級 ~ 上級初歩
 
