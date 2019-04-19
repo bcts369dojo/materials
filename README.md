@@ -53,8 +53,7 @@
 - Golang Concurrency
 - Docker
 - CI（継続的インテグレーション）
-- OAuthによるユーザ認証
-- Create Libraries for yourself
+- OAuthまたはJWTによるユーザ認証
 - Database Part1 SQL
 - Database Part2 NOSQL
 - Database Part3 Local Database
@@ -65,11 +64,10 @@
 - 暗号資産取引所のアカウント作成
 - 暗号資産の自動取引ボット
 - Google Spread Sheets
-- GitHub Actions
 
 ### 中級以上
 
-中級程度の知識に加え、様々なWEBテクノロジーを利用して、１つのサービスやアプリを作り上げることができ、運用までできれば尚よし。
+中級程度の知識に加え、様々なWEBテクノロジーを利用して、１つ以上のサービスやアプリを作り上げることができ、運用までできれば尚よし。小規模なサービスやアプリを設計できる。
 
 - GraphQL
 - IoT
@@ -79,6 +77,7 @@
 - Micro Services
 - gRPC-Web
 - DevOps
+- GitHub Actions
 
 ### 中級 ~ 上級初歩
 
