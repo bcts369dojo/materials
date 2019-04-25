@@ -11,7 +11,7 @@
 - GitHub Private Access Token
 - GitHub 2FA
 - [Python](https://github.com/bcts369dojo/materials/blob/master/docs/installing_python.md)
-
+- Node.js
 
 ## Exercise
 
