@@ -155,6 +155,7 @@
 - [Download Python | Python.org](https://www.python.org/downloads/)
 - [GitHub TopStars](http://github-topstars.hellopeople.jp/)
 - [Gobot - Golang framework for robotics, drones, and the Internet of Things (IoT)](https://gobot.io/)
+- [Google Colaboratoryへようこそ](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)
 
 ## 指導どおりの環境構築をしていない場合。
 
