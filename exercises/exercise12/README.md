@@ -1,4 +1,4 @@
-# Exercise12よく使用するUNIXコマンド
+# Exercise12 よく使用するUNIXコマンド
 
 
 ## はじめに
@@ -20,7 +20,10 @@ https://www.sejuku.net/blog/2643#PaizaCloud
 
 なお、コマンドを自分で調べる場合は、次のように検索すると大抵見つかると思います。
 
+macOSのコマンドを検索する
 > コマンド macos コマンド名
+
+Linuxのコマンドを検索する
 > コマンド linux コマンド名
 
 例えば、 `コマンド macos open` と検索すれば、mac特有のopenコマンドの情報がたくさんヒットします。
