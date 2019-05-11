@@ -33,12 +33,12 @@
 - [Exercise10 Go Basics2](./exercises/exercise10)
 - [Exercise11 Go Basics3](./exercises/exercise11)
 - [Exercise12 よく使用するUNIXコマンド](./exercises/exercise12)
-- Exercise13 環境変数をGoやPythonで使う
+- Exercise13 環境変数をGoで使う
 - Exercise14 Todoアプリ（その１）
-- Exercise14 Todoアプリ（その２）
-- Exercise14 Todoアプリ（その３）
-- Exercise14 Todoアプリ（その４）
-- Exercise14 Todoアプリ（その５）
+- Exercise15 Todoアプリ（その２）
+- Exercise16 Todoアプリ（その３）
+- Exercise17 Todoアプリ（その４）
+- Exercise18 Todoアプリ（その５）
 - ライブラリを使用してみる
 - クロスコンパイル
 - Go言語でJSONを扱う
