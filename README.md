@@ -32,8 +32,13 @@
 - [Exercise9 Go Basics1](./exercises/exercise9)
 - [Exercise10 Go Basics2](./exercises/exercise10)
 - [Exercise11 Go Basics3](./exercises/exercise11)
-
-- [Exercise12 環境変数をGoやPythonで使う（途中）](./exercises/exercise12)
+- [Exercise12 よく使用するUNIXコマンド](./exercises/exercise12)
+- Exercise13 環境変数をGoやPythonで使う
+- Exercise14 Todoアプリ（その１）
+- Exercise14 Todoアプリ（その２）
+- Exercise14 Todoアプリ（その３）
+- Exercise14 Todoアプリ（その４）
+- Exercise14 Todoアプリ（その５）
 - ライブラリを使用してみる
 - クロスコンパイル
 - Go言語でJSONを扱う
@@ -41,6 +46,7 @@
 - APIを利用する
 - 設定ファイルによってプログラムの動作を変える
 - Testing
+- Debug
 - Makefile
 - Golang Methods and interfaces
 
