@@ -48,7 +48,9 @@
 - Testing
 - Debug
 - Makefile
-- Golang Methods and interfaces
+- Go Basics Methods and interfaces
+- Go Basics Concurrency
+- 独自パッケージ作成
 
 ### 中級
 
