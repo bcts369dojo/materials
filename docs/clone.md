@@ -1,6 +1,13 @@
 # GitHubでリポジトリを複製（クローン）する方法
 
-GitHubではリポジトリを複製（クローン）する方法がいくつかありますが、GitHubが推奨している**HTTPS URLを使用したクローン作成**について説明します。道場ではこの方法を採用します。
+## はじめに
+
+GitHubではリポジトリを複製（クローン）する方法がいくつかありますが、GitHubが推奨している**HTTPS URLを使用したクローン作成**について説明します。
+
+ただし、道場では[Github Desktop](https://desktop.github.com/)を使用することを推奨しますので、通常は以下のことを気にする必要はありません。
+コマンドラインでgitを操作する場合には必要だと思ってください。
+
+##  リポジトリを複製する方法
 
 アカウントにサインインしているときにリポジトリを表示すると、プロジェクトを自分のコンピュータに複製するために使用できるURLが、リポジトリの詳細の下に表示されます。
 
@@ -26,31 +33,30 @@ GitがGitHubと通信するたびにGitHubのユーザー名とパスワード�
 
 これにより、毎回ユーザ名とパスワードを入力する必要が軽減されます。
 
-コマンドラインでGitHubの認証を受けずにリポジトリのクローンを作成するには、代わりにGitHubデスクトップを使用してクローンを作成します。
-
-
-
-----
+GitHubデスクトップを使用してクローンを作成した場合は以下の作業は不要です。
 
 ## GitでGitHubのパスワードをキャッシュする
 
 [HTTPSを使用してGitHubリポジトリを複製する](https://translate.googleusercontent.com/translate_c?depth=1&hl=ja&rurl=translate.google.com&sl=en&sp=nmt4&tl=ja&u=https://help.github.com/articles/which-remote-url-should-i-use&xid=17259,15700023,15700186,15700191,15700253,15700256,15700259&usg=ALkJrhh_lt33caGLQInlOYZJTIeeSnChLg)場合は、GitHubと通信するたびにGitHubのユーザー名とパスワードを覚えておくようにGitに伝えるために`認証ヘルパー`を使用できます。
 
-**ヒント：**認証情報ヘルパーを使用するにはGit  **1.7.10**以降が必要です。
+認証情報ヘルパーを使用するにはGit **1.7.10** 以降が必要です。
 
-Gitがしばらくの間パスワードをメモリに保存するように、認証情報ヘルパーをオンにします。  デフォルトでは、Gitは15分間あなたのパスワードをキャッシュします。
+Gitがしばらくの間パスワードをメモリに保存するように、認証情報ヘルパーをオンにします。  デフォルトでは15分間パスワードをキャッシュします。
 
-1.  ターミナルで、次のように入力します。
+ターミナルで、次のように入力します。
 
-     `$ git config --global credential.helper cache # Set git to use the credential memory cache`
+```sh
+#  認証情報をメモリにキャッシュするよう設定します（15分間）
+git config --global credential.helper cache
+```
 
-2.  デフォルトのパスワードキャッシュタイムアウトを変更するには、次のように入力します。
+デフォルトのパスワードキャッシュタイムアウトを変更するには、次のように入力します。
 
-     `$ git config --global credential.helper 'cache --timeout=3600' # Set the cache to timeout after 1 hour (setting is in seconds)`
+```sh
+# 1時間パスワードをキャッシュします（1時間はパスワード再入力不要）。秒単位で指定します。
+git config --global credential.helper 'cache --timeout=3600'
+```
 
-
-
-----
 
 ## 2要素認証（2FA）でアカウントを保護する
 
@@ -88,13 +94,14 @@ Gitがしばらくの間パスワードをメモリに保存するように、�
 
 個人アカウントの2要素認証を無効にすると、所属する組織へのアクセスが失われる可能性があります。
 
-## リンク
+## 関連リンク
 
+- [Which remote URL should I use?](https://help.github.com/en/articles/which-remote-url-should-i-use)
+- [Changing a remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
 - [Caching your GitHub password in Git](https://help.github.com/en/articles/caching-your-github-password-in-git)
 - [Creating a personal access token for the command line - GitHub Help](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line)
 - [Cloning a repository from GitHub Desktop](https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository-from-github-desktop)
-
 - [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/)
-
+- [Install GitHub Desktop for Linux using the Snap Store | Snapcraft](https://snapcraft.io/github-desktop)
 
 
