@@ -33,6 +33,7 @@
 - [Exercise10 Go Basics2](./exercises/exercise10)
 - [Exercise11 Go Basics3](./exercises/exercise11)
 - [Exercise12 よく使用するUNIXコマンド](./exercises/exercise12)
+- [GitHubでリポジトリを複製（クローン）する方法](https://github.com/bcts369dojo/materials/blob/master/docs/clone.md)
 - Exercise13 環境変数をGoで使う
 - Exercise14 Todoアプリ（その１）
 - Exercise15 Todoアプリ（その２）
