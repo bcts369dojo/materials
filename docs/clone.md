@@ -34,9 +34,7 @@ GitがGitHubと通信するたびにGitHubのユーザー名とパスワード�
 
 ## GitでGitHubのパスワードをキャッシュする
 
-[HTTPSを使用してGitHubリポジトリを複製する](https://translate.googleusercontent.com/translate_c?depth=1&hl=ja&rurl=translate.google.com&sl=en&sp=nmt4&tl=ja&u=https://help.github.com/articles/which-remote-url-should-i-use&xid=17259,15700023,15700186,15700191,15700253,15700256,15700259&usg=ALkJrhh_lt33caGLQInlOYZJTIeeSnChLg)場合は、GitHubと通信するたびにGitHubのユーザー名とパスワードを覚えておくようにGitに伝えるために_認証ヘルパー_を使用できます。
-
-SSHを使用してGitHubリポジトリを複製する場合は、ユーザー名とパスワードの代わりにSSHキーを使用して認証します。  SSH接続の設定方法については[、SSHキーの生成を](https://translate.googleusercontent.com/translate_c?depth=1&hl=ja&rurl=translate.google.com&sl=en&sp=nmt4&tl=ja&u=https://help.github.com/en/articles/generating-an-ssh-key&xid=17259,15700023,15700186,15700191,15700253,15700256,15700259&usg=ALkJrhhUCX3z1KZd9N0dZIQLzmlfCyyKlQ)参照してください。
+[HTTPSを使用してGitHubリポジトリを複製する](https://translate.googleusercontent.com/translate_c?depth=1&hl=ja&rurl=translate.google.com&sl=en&sp=nmt4&tl=ja&u=https://help.github.com/articles/which-remote-url-should-i-use&xid=17259,15700023,15700186,15700191,15700253,15700256,15700259&usg=ALkJrhh_lt33caGLQInlOYZJTIeeSnChLg)場合は、GitHubと通信するたびにGitHubのユーザー名とパスワードを覚えておくようにGitに伝えるために`認証ヘルパー`を使用できます。
 
 **ヒント：**認証情報ヘルパーを使用するにはGit  **1.7.10**以降が必要です。
 
@@ -50,10 +48,6 @@ Gitがしばらくの間パスワードをメモリに保存するように、�
 
      `$ git config --global credential.helper 'cache --timeout=3600' # Set the cache to timeout after 1 hour (setting is in seconds)`
 
-
-### [参考文献](https://translate.googleusercontent.com/translate_c?depth=1&hl=ja&rurl=translate.google.com&sl=en&sp=nmt4&tl=ja&u=https://help.github.com/en/articles/caching-your-github-password-in-git&xid=17259,15700023,15700186,15700191,15700253,15700256,15700259&usg=ALkJrhhVGY1BYHP0p2tZkd3eW17x1Am3uQ#further-reading)
-
--   「  [OSXキーチェーンからの資格情報の更新](https://translate.googleusercontent.com/translate_c?depth=1&hl=ja&rurl=translate.google.com&sl=en&sp=nmt4&tl=ja&u=https://help.github.com/en/articles/updating-credentials-from-the-osx-keychain/&xid=17259,15700023,15700186,15700191,15700253,15700256,15700259&usg=ALkJrhipH8g_tZyRrnbifb7dMfSIguJnaQ)  」
 
 
 ----
@@ -100,6 +94,7 @@ Gitがしばらくの間パスワードをメモリに保存するように、�
 - [Creating a personal access token for the command line - GitHub Help](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line)
 - [Cloning a repository from GitHub Desktop](https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository-from-github-desktop)
 
+- [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/)
 
 
 
