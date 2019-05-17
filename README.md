@@ -51,13 +51,12 @@
 - Makefile
 - Go Basics Methods and interfaces
 - Go Basics Concurrency
-- 独自パッケージ作成
 
 ### 中級
 
 指示されたとおりのサービスやアプリが作れる程度。就職してもいいかどうかのレベル。
 
-- 自分でライブラリを作成してみる
+- 自分でライブラリを作成してみる（独自パッケージ作成）
 - Go Modules
 - Golang Concurrency
 - Docker
