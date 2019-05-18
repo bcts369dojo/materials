@@ -33,7 +33,7 @@
 - [Exercise10 Go Basics2](./exercises/exercise10)
 - [Exercise11 Go Basics3](./exercises/exercise11)
 - [Exercise12 よく使用するUNIXコマンド](./exercises/exercise12)
-- [[WIP]Exercise13 環境変数をGoで使う](./exercises/exercise13)
+- [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
 - Exercise14 Todoアプリ（その１）
 - Exercise15 Todoアプリ（その２）
 - Exercise16 Todoアプリ（その３）
@@ -50,13 +50,12 @@
 - Makefile
 - Go Basics Methods and interfaces
 - Go Basics Concurrency
-- 独自パッケージ作成
 
 ### 中級
 
 指示されたとおりのサービスやアプリが作れる程度。就職してもいいかどうかのレベル。
 
-- 自分でライブラリを作成してみる
+- 自分でライブラリを作成してみる（独自パッケージ作成）
 - Go Modules
 - Golang Concurrency
 - Docker
