@@ -33,7 +33,7 @@
 - [Exercise10 Go Basics2](./exercises/exercise10)
 - [Exercise11 Go Basics3](./exercises/exercise11)
 - [Exercise12 よく使用するUNIXコマンド](./exercises/exercise12)
-- Exercise13 環境変数をGoで使う
+- [[WIP]Exercise13 環境変数をGoで使う](./exercises/exercise13)
 - Exercise14 Todoアプリ（その１）
 - Exercise15 Todoアプリ（その２）
 - Exercise16 Todoアプリ（その３）
