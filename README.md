@@ -35,10 +35,25 @@
 - [Exercise12 よく使用するUNIXコマンド](./exercises/exercise12)
 - [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
 - Exercise14 Todoアプリ（その１）
-- Exercise15 Todoアプリ（その２）
-- Exercise16 Todoアプリ（その３）
-- Exercise17 Todoアプリ（その４）
-- Exercise18 Todoアプリ（その５）
+   - TODOアプリの拡張予定
+   - バージョンについて
+   - Ver1.0 最小の機能実装
+   - Ver1.1 構造体に対応
+   - Ver1.2 インターフェースに対応
+   - Ver1.3 コマンドライン引数に対応
+   - Ver1.4 TODO内容をJSONで保存、読み出し（リスト表示）
+   - Ver1.5 テストコードを書く
+   - Ver2.0 WEBアプリケーション対応
+   - Herokuなどでアプリを外部公開できるようにする
+   - Ver2.1 ログイン（認証）実装
+   - Ver2.2 データ管理をDB（NoSQL）で行う
+   - Ver2.3 キーワードなどのメタデータを追加できるようにする
+   - Ver2.4 画像を登録できるようにする
+   - Ver2.5 複数ユーザ対応
+   - Ver2.6 通知
+   - Ver3.0 クラウド対応（Google Cloud）
+   - Ver4.0 マイクロサービス対応（RPC）
+   - Ver5.0 ブロックチェーン対応（ETH）
 - ライブラリを使用してみる
 - クロスコンパイル
 - Go言語でJSONを扱う
