@@ -34,6 +34,7 @@
 - [Exercise11 Go Basics3](./exercises/exercise11)
 - [Exercise12 よく使用するUNIXコマンド](./exercises/exercise12)
 - [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
+- BMI算出アプリ
 - Exercise14 Todoアプリ（その１）
    - TODOアプリの拡張予定
    - バージョンについて
