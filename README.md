@@ -139,13 +139,13 @@
 - GitHubは自分の情報やデータの倉庫置き場としても十分使える
 - GitHub, GitLab, BitBuscket
 
-## Sutra Copying
+## 写経（ドリル）
 
 - [Go](./sutra-copying/golang)
 - [Markdown](./sutra-copying/markdown)
 
 
-## Recommend Tools
+## 推奨ツール
 
 - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 - [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
@@ -156,7 +156,7 @@
 - [nbedos/termtosvg: Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg)
 - [Code snippet organizer for pros | Cacher](https://www.cacher.io/)
 
-## Recommend Services
+## 推奨サービス
 
 - [Airtable](https://airtable.com/)
 - [継続的インテグレーション・継続的デリバリー - CircleCI](https://circleci.jp/)
@@ -166,7 +166,7 @@
 - [Gopherize.me - A Gopher pic that's as unique as you](https://gopherize.me/)
 - [MariaLetta/free-gophers-pack: ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.](https://github.com/MariaLetta/free-gophers-pack)
 
-## Other
+## その他の有益情報
 
 - [The Go Playground](https://play.golang.org/)
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
