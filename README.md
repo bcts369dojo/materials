@@ -1,4 +1,4 @@
-# Material for bcts369道場
+# Materials for bcts369道場
 
 **以下は、bcts369道場が管理・提供している各種コンテンツや情報です。**
 
