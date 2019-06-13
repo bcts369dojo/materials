@@ -9,5 +9,13 @@
 - [今さら人に聞けない Kubernetes とは？ - Qiita](https://qiita.com/MahoTakara/items/85096f8b2632c802ab22#kubernetes%E3%81%AE%E7%99%BA%E9%9F%B3%E3%81%AF)
 - [Kubernetesをマスター す る方法を伝授 - Speaker Deck](https://speakerdeck.com/takara9/kuberneteswomasuta-su-rufang-fa-wochuan-shou)
 
-正規表現
+## 正規表現
+
+
+## 紹介予定サービス
+
+- [コードの各所に関するデベロッパー同士の議論をコメントのように残せるCodeStream、最初はVS Codeをサポート | TechCrunch Japan](https://jp.techcrunch.com/2018/11/17/2018-11-16-codestream-lets-you-collaborate-and-talk-directly-in-vs-code/)
+
+- [Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/)
+
 
