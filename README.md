@@ -17,3 +17,6 @@
 - [bcts369](https://bcts369.nkapp.com/)
 - [bcts@OUTPUTと継続は力なり(@bcts369)さん | Twitter](https://twitter.com/bcts369)
 
+**弟子、生徒が運営するサイトなど**
+
+今後追加予定。
