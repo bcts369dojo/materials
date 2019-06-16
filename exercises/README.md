@@ -2,7 +2,7 @@
 
 リンクが有効でない項目は検討中であり、順番も未定
 
-## Section1
+## Chapter1
 
 基礎の基礎、まずはここから始めます。
 
@@ -17,12 +17,12 @@
 - [Exercise12 よく使用するUNIXコマンド](./exercises/exercise12)
 
 
-## Section2
+## Chapter2
 
 - Ex-1 Github Pagesを使用して簡単にポートフォリオサイトを作る
 - Ex-2 Github PagesとHugoを使用して簡単にポートフォリオサイトを作る
 
-## Section3
+## Chapter3
 
 Go言語の基本を理解しましょう。
 
@@ -35,7 +35,7 @@ Go言語の基本を理解しましょう。
 - Ex-7 Go Basics Concurrency
 - Ex-8 理解度チェック３
 
-## Section4
+## Chapter4
 
 簡単なコマンドラインアプリを作成します。
 
