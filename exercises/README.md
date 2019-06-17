@@ -35,12 +35,30 @@ Go言語の基本を理解しましょう。
 - Ex-7 Go Basics Concurrency
 - Ex-8 理解度チェック３
 
-## Chapter4
+## Chapter xx
+
+簡単なCLIアプリを数種類作成します。
+
+## Section1
+
+BMIを算出するCLIアプリを作成します。
+
+-Ex-1 身長と体重から標準体重、BMIを算出します。
+-Ex-2 上記に加え、算出されたBMIから肥満度を判定します。
+
+## Section2 
+
+Todo（タスク）を管理するCLIアプリケーションを作成します。
+
+-EX-1 Todoアプリの仕様
+-Ex-2 最も簡単なTodoアプリ
+
+
+## Chapterxx
 
 簡単なコマンドラインアプリを作成します。
 
 - [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
-- BMI算出アプリ
 
 - Ex-1 最小のTODO機能実装
    - Ver1.1 構造体に対応
