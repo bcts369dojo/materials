@@ -1,7 +1,9 @@
 # 学習内容
 
 リンクが有効でない項目は検討中であり、順番も未定。
+
 学習単位（パート、チャプター、セクション、エクササイズ、レッスン）については未だに悩んでいるので、今後も構成が変わる可能性があります。また、パートやチャプターなどの大分類については、ナンバリングすると管理が難しくなるので、ネーミングで管理するかもしれません。
+
 チャプター単位で書いていきますが、パートまで必要と感じた場合は、構成を変更します。
 
 ## Chapter1
@@ -19,14 +21,14 @@
 - [Exercise12 よく使用するUNIXコマンド](./exercises/exercise12)
 
 
-## Chapter2
+## Chapter Create My Site
 
 自己紹介や、経歴、ポートフォリオを紹介できる自分用のサイトを無料で作る方法。
 
 - Ex-1 Github Pagesを使用して簡単にマイサイトを作る
 - Ex-2 Github PagesとHugoを使用して簡単にマイサイトを作る
 
-## Chapter3
+## Chapter Golang Tutorial
 
 Go言語の基本を理解しましょう。
 
@@ -108,6 +110,7 @@ Todo（タスク）を管理するCLIアプリケーションを作成します�
 
 - トレードをする前に知っておくこと。
 - 暗号資産の自動取引ボット
+- 暗号資産取引所のアカウント作成
 
 
 ## Chapter Twitterボット
@@ -120,9 +123,23 @@ Twitter bot関連。
 
 ## Chapter データベースなど
 
-- Database Part1 SQL
-- Database Part2 NOSQL
-- Database Part3 Local Database
+- Database Local Database
+- Database SQL
+- Database NOSQL
+- GraphQL
+
+
+## Chapter CI
+- CI（継続的インテグレーション）
+
+おもに、CircleCiを使用して、**継続的インテグレーション** について学ぶ。
+
+# Chapter Miscs
+
+そのたいろいろ。
+
+- Google Spread Sheets
+
 
 ## その他の予定
 
@@ -130,12 +147,8 @@ Twitter bot関連。
 - 設定ファイルによってプログラムの動作を変える
 - Debug
 - 仮想案件に対して、提案書、見積書、概要設計書を提出する。
-- CI（継続的インテグレーション）
 - OAuthまたはJWTによるユーザ認証
 - 開発中の失敗を体験し、どのように対応するのか体験する
-- 暗号資産取引所のアカウント作成
-- Google Spread Sheets
-- GraphQL
 - クラウド開発環境
     - Google Cloud
     - AWS
