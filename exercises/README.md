@@ -5,6 +5,7 @@
 学習単位（パート、チャプター、セクション、エクササイズ、レッスン）については未だに悩んでいるので、今後も構成が変わる可能性があります。また、パートやチャプターなどの大分類については、ナンバリングすると管理が難しくなるので、ネーミングで管理するかもしれません。
 
 チャプター単位で書いていきますが、パートまで必要と感じた場合は、構成を変更します。
+なお、一般的には `Lesson` と使われるかもしれませんが、本道場では `Exercise` と表現します。
 
 ## Chapter1
 
@@ -128,18 +129,30 @@ Twitter bot関連。
 - Database NOSQL
 - GraphQL
 
+## Cloud Development
+- クラウド開発環境
+    - Google Cloud
+    - AWS
 
 ## Chapter CI
 - CI（継続的インテグレーション）
 
 おもに、CircleCiを使用して、**継続的インテグレーション** について学ぶ。
 
+## Chapter 認証
+- OAuthまたはJWTによるユーザ認証
+
+
 # Chapter Miscs
 
 そのたいろいろ。
 
 - Google Spread Sheets
-
+- DevOps
+- IoT
+- Micro Services
+    - gRPC-Web
+- AI
 
 ## その他の予定
 
@@ -147,14 +160,6 @@ Twitter bot関連。
 - 設定ファイルによってプログラムの動作を変える
 - Debug
 - 仮想案件に対して、提案書、見積書、概要設計書を提出する。
-- OAuthまたはJWTによるユーザ認証
-- 開発中の失敗を体験し、どのように対応するのか体験する
-- クラウド開発環境
-    - Google Cloud
-    - AWS
-- Micro Services
-    - gRPC-Web
-- DevOps
-- IoT
+- 開発中の失敗を体験し、どのように対応するのか体験するには？
 
 - Heroku
