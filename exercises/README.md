@@ -1,6 +1,8 @@
 # 学習内容
 
-リンクが有効でない項目は検討中であり、順番も未定。学習単位（パート、チャプター、セクション、エクササイズ、レッスン）については未だに悩んでいるので、今後も構成が変わる可能性があります。また、パートやチャプターなどの大分類については、ナンバリングすると管理が難しくなるので、ネーミングで管理するかもしれません。
+リンクが有効でない項目は検討中であり、順番も未定。
+学習単位（パート、チャプター、セクション、エクササイズ、レッスン）については未だに悩んでいるので、今後も構成が変わる可能性があります。また、パートやチャプターなどの大分類については、ナンバリングすると管理が難しくなるので、ネーミングで管理するかもしれません。
+チャプター単位で書いていきますが、パートまで必要と感じた場合は、構成を変更します。
 
 ## Chapter1
 
@@ -19,8 +21,10 @@
 
 ## Chapter2
 
-- Ex-1 Github Pagesを使用して簡単にポートフォリオサイトを作る
-- Ex-2 Github PagesとHugoを使用して簡単にポートフォリオサイトを作る
+自己紹介や、経歴、ポートフォリオを紹介できる自分用のサイトを無料で作る方法。
+
+- Ex-1 Github Pagesを使用して簡単にマイサイトを作る
+- Ex-2 Github PagesとHugoを使用して簡単にマイサイトを作る
 
 ## Chapter3
 
@@ -37,6 +41,9 @@ Go言語の基本を理解しましょう。
 - ライブラリを使用してみる
 - 自分でライブラリを作成してみる（独自パッケージ作成）
 - Go Modules
+- Makefile
+- [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
+
 
 ## Chapter CLIアプリケーション
 
@@ -73,14 +80,18 @@ Todo（タスク）を管理するCLIアプリケーションを作成します�
 - Ex-5 メッセージではなく、サウンドを鳴らすようにする。
 - Ex-6 テストコードを書く。
 
+## Chapter Blockchain
 
-## Chapter xx
+ブロックチェーンを利用したDAppsの開発関連。
 
-簡単なコマンドラインアプリを作成します。
+## Chapter Scraping
 
-- [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
+スクレイピング関連。
 
-- Ex-1 最小のTODO機能実装
+
+## Chapter Todo Application
+
+- 最小のTODO機能実装
    - Ver2.0 WEBアプリケーション対応
    - Herokuなどでアプリを外部公開できるようにする
    - Ver2.1 ログイン（認証）実装
@@ -96,24 +107,33 @@ Todo（タスク）を管理するCLIアプリケーションを作成します�
 ## Chapter 暗号資産
 
 - トレードをする前に知っておくこと。
+- 暗号資産の自動取引ボット
+
+
+## Chapter Twitterボット
+
+Twitter bot関連。
+
+## Chapter Docker
+
+主に、開発環境について。
+
+## Chapter データベースなど
+
+- Database Part1 SQL
+- Database Part2 NOSQL
+- Database Part3 Local Database
 
 ## その他の予定
 
 - APIを利用する
 - 設定ファイルによってプログラムの動作を変える
 - Debug
-- Makefile
 - 仮想案件に対して、提案書、見積書、概要設計書を提出する。
-- Docker
 - CI（継続的インテグレーション）
 - OAuthまたはJWTによるユーザ認証
-- Database Part1 SQL
-- Database Part2 NOSQL
-- Database Part3 Local Database
 - 開発中の失敗を体験し、どのように対応するのか体験する
-- Scraping
 - 暗号資産取引所のアカウント作成
-- 暗号資産の自動取引ボット
 - Google Spread Sheets
 - GraphQL
 - クラウド開発環境
