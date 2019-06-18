@@ -113,7 +113,7 @@ Todo（タスク）を管理するCLIアプリケーションを作成します�
 - Database Local Database
 - Database SQL
 - Database NOSQL
-- GraphQL
+- GraphQotL
 
 ## Chapter Blockchain
 
@@ -136,7 +136,7 @@ Todo（タスク）を管理するCLIアプリケーションを作成します�
 
 ## Chapter Twitterボット
 
-Twitter bot関連。
+Twitter APIを利用したbotアプリ作成。
 
 ## Chapter Docker
 
@@ -151,7 +151,7 @@ Twitter bot関連。
 ## Chapter CI
 - CI（継続的インテグレーション）
 
-おもに、CircleCiを使用して、**継続的インテグレーション** について学びます。
+主に、CircleCiを使用して、**継続的インテグレーション** について学びます。
 
 ## Chapter 認証
 - OAuthまたはJWTによるユーザ認証
@@ -159,6 +159,9 @@ Twitter bot関連。
 ## Chapter IoT
 
 Internet of Thingsについて学びます。ただし、センサーなどの機材（１万円未満）を購入する必要があるので、自由選択とします。
+
+- Raspbery Pi
+
 
 ## Chapter AI
 
