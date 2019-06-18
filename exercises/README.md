@@ -47,6 +47,15 @@ Go言語の基本を理解しましょう。
 - Makefile
 - [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
 
+## JSON
+
+実際のアプリ開発では、JSONというデータのフォーマットが使われています。Go言語においてJSONフォーマットのデータをどのように扱うかを学びます。
+
+## API
+
+実際のアプリ開発では、さまざまな機能を自分で作るのではなく、API（Application Programming Interface）を利用することが非常に多いです。
+もちろん独自でAPIを作る場合もありますが、ここではAPIを利用する方法について学びます。
+APIのデータ形式はJSONを始め、GraphQLという新しいフォーマットが利用されていますが、これらにも触れていきます。
 
 ## Chapter CLIアプリケーション
 
@@ -84,6 +93,28 @@ Todo（タスク）を管理するCLIアプリケーションを作成します�
 - Ex-6 テストコードを書く。
 - Ex-7 設定ファイルの内容でアプリの動作を変更する。
 
+## Chapter Webアプリケーション
+
+### Section1 Todoアプリ
+   - Ver2.1 ログイン（認証）実装
+   - Ver2.2 データ管理をDB（NoSQL）で行う
+   - Ver2.3 キーワードなどのメタデータを追加できるようにする
+   - Ver2.4 画像を登録できるようにする
+   - Ver2.5 複数ユーザ対応
+   - Ver2.6 通知
+   - Herokuなどでアプリを外部公開できるようにする
+   - Ver3.0 クラウド対応（Google Cloud）
+   - Ver4.0 マイクロサービス対応（RPC）
+        - gRPC-Web
+   - Ver5.0 ブロックチェーン対応（ETH）
+
+## Chapter データの永続化（データベースなど）
+
+- Database Local Database
+- Database SQL
+- Database NOSQL
+- GraphQL
+
 ## Chapter Blockchain
 
 ブロックチェーンを利用したDAppsの開発関連。
@@ -97,28 +128,11 @@ Todo（タスク）を管理するCLIアプリケーションを作成します�
 スクレイピング関連。
 
 
-## Chapter Todo Application
-
-- 最小のTODO機能実装
-   - Ver2.0 WEBアプリケーション対応
-   - Herokuなどでアプリを外部公開できるようにする
-   - Ver2.1 ログイン（認証）実装
-   - Ver2.2 データ管理をDB（NoSQL）で行う
-   - Ver2.3 キーワードなどのメタデータを追加できるようにする
-   - Ver2.4 画像を登録できるようにする
-   - Ver2.5 複数ユーザ対応
-   - Ver2.6 通知
-   - Ver3.0 クラウド対応（Google Cloud）
-   - Ver4.0 マイクロサービス対応（RPC）
-        - gRPC-Web
-   - Ver5.0 ブロックチェーン対応（ETH）
-
 ## Chapter 暗号資産
 
 - トレードをする前に知っておくこと。
 - 暗号資産の自動取引ボット
 - 暗号資産取引所のアカウント作成
-
 
 ## Chapter Twitterボット
 
@@ -128,12 +142,6 @@ Twitter bot関連。
 
 主に、開発環境について。
 
-## Chapter データベースなど
-
-- Database Local Database
-- Database SQL
-- Database NOSQL
-- GraphQL
 
 ## Cloud Development
 - クラウド開発環境
@@ -154,7 +162,7 @@ Internet of Thingsについて学びます。ただし、センサーなどの�
 
 ## Chapter AI
 
-フレームワークやライブラリを使用して、簡単なAPIアプリの作り方を学びます。
+フレームワークやライブラリを使用して、簡単なAIアプリの作り方を学びます。
 
 
 ## Chapter Debug
