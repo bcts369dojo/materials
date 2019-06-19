@@ -47,15 +47,25 @@ Go言語の基本を理解しましょう。
 - Makefile
 - [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
 
-## JSON
+## Chapter JSON
 
 実際のアプリ開発では、JSONというデータのフォーマットが使われています。Go言語においてJSONフォーマットのデータをどのように扱うかを学びます。
+なおJSONとは、JavaScript Object Notationの略称であり、標準的なテキストベースの構造データ表現フォーマットで、JavaScript 構造データオブジェクトの表記法をベースとしています。
 
-## API
+- Ex-1 JSONフォーマットのテキストデータを読み込み、表示します。
+- Ex-2 JSONフォーマットのデータをGoの構造体にマッピングします。
+
+## Chapter API
 
 実際のアプリ開発では、さまざまな機能を自分で作るのではなく、API（Application Programming Interface）を利用することが非常に多いです。
 もちろん独自でAPIを作る場合もありますが、ここではAPIを利用する方法について学びます。
 APIのデータ形式はJSONを始め、GraphQLという新しいフォーマットが利用されていますが、これらにも触れていきます。
+
+`JSON` のチャプターを終了している必要があります。
+
+- Ex-1 為替情報（JPY, USDなど）を取得し、表示します。
+- Ex-2 暗号資産の情報（BTC, ETH など）を取得し、表示します。
+- Ex-3 上記を元に、1BTCあたりの日本円でいくらかを計算し、表示します。
 
 ## Chapter CLIアプリケーション
 
