@@ -147,6 +147,9 @@ CLIアプリで学んだTODOアプリの基本を元にWEBアプリ化して、�
 - トレードをする前に知っておくこと。
 - 暗号資産の自動取引ボット
 - 暗号資産取引所のアカウント作成
+- 現在のレートを取得してみる
+    - [GMOコインで最新レートを取得してみる](https://api.coin.z.com/docs/?javascript#ticker)
+        - https://api.coin.z.com/public/v1/ticker
 
 ## Chapter Twitterボット
 
@@ -197,6 +200,9 @@ VSCodeを使用したデバッグの方法を学びます。
 - Amazon Lightsale
 - Lolipop
 
+## モバイルアプリ対応（Nonネイティブ）
+
+- Ex-1 モバイルアプリの種類と開発方法について
 
 ## 検討中
 
