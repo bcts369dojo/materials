@@ -163,10 +163,17 @@ Twitter APIを利用したbotアプリ作成。
 - 道場が提供するインストラーを使用して、開発に必要な環境を自動インストールする。
 
 
-## Cloud Development
+## Chapter Cloud Development
 - クラウド開発環境
     - Google Cloud
     - AWS
+    - Azure
+    - IBM Cloud
+
+## Chapter マイクロサービス／サーバレス
+
+マイクロサービス／サーバレスの基礎を学びます。
+
 
 ## Chapter CI
 - CI（継続的インテグレーション）
@@ -176,11 +183,15 @@ Twitter APIを利用したbotアプリ作成。
 ## Chapter 認証
 - OAuthまたはJWTによるユーザ認証
 
+## Chapter 多言語対応
+
+アプリやサービスの多言語対応について学びます。
+
 ## Chapter IoT
 
 Internet of Thingsについて学びます。ただし、センサーなどの機材（１万円未満）を購入する必要があるので、自由選択とします。
 
-- Raspbery Pi
+- Raspbery Pi + センサー類
 
 
 ## Chapter AI
