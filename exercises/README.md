@@ -45,6 +45,7 @@ Go言語の基本を理解しましょう。
 - 自分でライブラリを作成してみる（独自パッケージ作成）
 - Go Modules
 - Makefile
+- シリアライズ
 - [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
 
 ## Chapter JSON
@@ -125,9 +126,16 @@ CLIアプリで学んだTODOアプリの基本を元にWEBアプリ化して、�
 ## Chapter データの永続化（データベースなど）
 
 - Ex-1 Database Local Database
+    - SQLite
+    - LevelDB
 - Ex-2 Database SQL
+    - SQLite
+    - MySQL
 - Ex-3 Database NOSQL
+    - LevelDB
+    - Mongodb
 - Ex-4 GraphQL
+    - 未定
 
 ## Chapter Blockchain
 
@@ -211,12 +219,15 @@ VSCodeを使用したデバッグの方法を学びます。
 - Amazon Lightsale
 - Lolipop
 
-## モバイルアプリ対応（Nonネイティブ）
+## モバイルアプリ対応
+
+PWA、HTML5、Hybrid、Native
 
 - Ex-1 モバイルアプリの種類と開発方法について
 
 ## 検討中
 
+- セキュリティ
 - どんなサービスを作りたいのか？ それについてディスカッションする方法。
 - 仮想案件に対して、提案書、見積書、概要設計書を提出する。
 - 開発中の失敗を体験し、どのように対応するのか体験するには？
