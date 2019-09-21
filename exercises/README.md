@@ -11,8 +11,8 @@
 
 基礎の基礎、まずはここから始めます。
 
-- [Exercise1 Markdown](/exercise1/README.md)
-- [Exercise2 GitHub Flow](/exercise2/README.md)
+- [Exercise1 Markdown](/exercises/exercise1/README.md)
+- [Exercise2 GitHub Flow](/exercises/exercise2/README.md)
 - [Exercise3 GitHub Issues](/exercises/exercise3/README.md)
 - [Exercise4 GitHub Labels](/exercises/exercise4/README.md)
 - [Exercise5 GitHub Projects Part1](/exercises/exercise5/README.md)
@@ -33,9 +33,9 @@
 
 Go言語の基本を理解しましょう。
 
-- [Ex-1 Go Basics1](./exercises/exercise9)
-- [Ex-2 Go Basics2](./exercises/exercise10)
-- [Ex-3 Go Basics3](./exercises/exercise11)
+- [Ex-1 Go Basics1](/exercises/exercise9/README.md)
+- [Ex-2 Go Basics2](/exercises/exercise10/README.md)
+- [Ex-3 Go Basics3](/exercises/exercise11/README.md)
 - Ex-4 理解度チェック１
 - Ex-5 Go Basics Methods and interfaces
 - Ex-6 理解度チェック２
@@ -46,7 +46,7 @@ Go言語の基本を理解しましょう。
 - Go Modules
 - Makefile
 - シリアライズ
-- [WIP:Exercise13 環境変数をGoで使う](./exercises/exercise13)
+- [WIP:Exercise13 環境変数をGoで使う](/exercises/exercise13/README.md)
 
 ## Chapter JSON
 
