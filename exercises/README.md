@@ -7,7 +7,9 @@
 エクササイズ番号は単に通し番号です。優先順位などの意味はありません。
 
 
-## Chapter 基礎の基礎、まずはここから始めます。
+## Chapter 開発を行うまでの準備
+
+まずはここから始めます。
 
 1. [Markdown](/exercises/ex1/README.md)
 2. [GitHub Flow](/exercises/ex2/README.md)
@@ -20,24 +22,28 @@
 9. [よく使用するUNIXコマンド](/exercises/ex12/README.md)
 
 
-## Chapter Golang Tutorial
+## Chapter Golang Basic
 
 Go言語の基本を理解しましょう。
 
-- [Ex-1 Go Basics1](/exercises/ex9/README.md)
-- [Ex-2 Go Basics2](/exercises/ex10/README.md)
-- [Ex-3 Go Basics3](/exercises/ex11/README.md)
-- Ex-4 理解度チェック１
-- Ex-5 Go Basics Methods and interfaces
-- Ex-6 理解度チェック２
-- Ex-7 Go Basics Concurrency
-- Ex-8 理解度チェック３
-- ライブラリを使用してみる
-- 自分でライブラリを作成してみる（独自パッケージ作成）
-- Go Modules
-- Makefile
-- シリアライズ
-- [WIP:Exercise13 環境変数をGoで使う](/exercises/ex13/README.md)
+1. [Go Basics1](/exercises/ex9/README.md)
+2. [Go Basics2](/exercises/ex10/README.md)
+3 .[Go Basics3](/exercises/ex11/README.md)
+4. 理解度チェック１
+5. Go Basics Methods and interfaces
+6. 理解度チェック２
+7. Go Basics Concurrency
+8. 理解度チェック３
+
+## Chapter Go言語 ステップ2
+
+1. ライブラリを使用してみる
+2. 自分でライブラリを作成してみる（独自パッケージ作成）
+3. Go Modules
+4. Makefile
+5. シリアライズ
+6. [WIP:環境変数をGoで使う](/exercises/ex13/README.md)
+
 
 ## Chapter JSON
 
@@ -45,7 +51,6 @@ Go言語の基本を理解しましょう。
 なおJSONとは、JavaScript Object Notationの略称であり、標準的なテキストベースの構造データ表現フォーマットで、JavaScript 構造データオブジェクトの表記法をベースとしています。
 
 [JSON データの操作](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Objects/JSON)という非常に参考になる情報があるので、一読することを勧めます。
-
 
 - Ex-1 JSONフォーマットのテキストデータを読み込み、表示します。
 - Ex-2 JSONフォーマットのデータをGoの構造体にマッピングします。
