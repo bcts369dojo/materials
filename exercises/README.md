@@ -1,10 +1,10 @@
 # 学習内容
 
-リンクが有効でない項目は検討中であり、順番も未定です。
+リンクが有効でない項目は検討中または準備中です。
 
-学習単位（パート、チャプター、セクション、エクササイズ、レッスン）については今後も構成が変わる可能性があります。また、パートやチャプターなどの大分類については、ナンバリングすると追加や、変更などの管理が難しくなるので、ネーミングで管理するかもしれません。
+学習の順番は基本、並び順で行ってください。
 
-エクササイズ番号は単に通り番号です。優先順位などの意味はありません。
+エクササイズ番号は単に通し番号です。優先順位などの意味はありません。
 
 
 ## Chapter 基礎の基礎、まずはここから始めます。
@@ -19,13 +19,6 @@
 8. [Develop Environment golang](/exercises/ex8/README.md)
 9. [よく使用するUNIXコマンド](/exercises/ex12/README.md)
 
-
-## Chapter Create My Site
-
-自己紹介や、経歴、ポートフォリオを紹介できる自分用のサイトを無料で作る方法。
-
-- Ex-1 Github Pagesを使用して簡単にマイサイトを作る
-- Ex-2 Github PagesとHugoを使用して簡単にマイサイトを作る
 
 ## Chapter Golang Tutorial
 
@@ -135,14 +128,6 @@ CLIアプリで学んだTODOアプリの基本を元にWEBアプリ化して、�
 - Ex-4 GraphQL
     - 未定
 
-## Chapter Blockchain
-
-ブロックチェーンを利用したDAppsの開発関連。
-
-### Section1 Ethereum
-
-### Section2 Nem
-
 ## Chapter Scraping
 
 スクレイピング関連。
@@ -212,6 +197,13 @@ Internet of Thingsについて学びます。ただし、センサーなどの�
 ## Chapter Debug
 
 VSCodeを使用したデバッグの方法を学びます。
+
+## Chapter Create My Site
+
+自己紹介や、経歴、ポートフォリオを紹介できる自分用のサイトを無料で作る方法。
+
+- Ex-1 Github Pagesを使用して簡単にマイサイトを作る
+- Ex-2 Github PagesとHugoを使用して簡単にマイサイトを作る
 
 ## Chapter ポートフォリオ動作環境
 
