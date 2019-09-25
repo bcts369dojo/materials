@@ -1,4 +1,4 @@
-# Exercise1 Markdown
+# Ex1 Markdown
 
 参考情報へのリンクのサイトを読んで、Markdown記法で文章を書けるようにしてください
 
