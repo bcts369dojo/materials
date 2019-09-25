@@ -1,25 +1,23 @@
 # 学習内容
 
-リンクが有効でない項目は検討中であり、順番も未定。
+リンクが有効でない項目は検討中であり、順番も未定です。
 
 学習単位（パート、チャプター、セクション、エクササイズ、レッスン）については今後も構成が変わる可能性があります。また、パートやチャプターなどの大分類については、ナンバリングすると追加や、変更などの管理が難しくなるので、ネーミングで管理するかもしれません。
 
-チャプター単位で書いていきますが、パートまで必要と感じた場合は、構成を変更します。
-なお、一般的には `Lesson` と使われるかもしれませんが、本道場では `Exercise` と表現します。
+エクササイズ番号は単に通り番号です。優先順位などの意味はありません。
 
-## Chapter1
 
-基礎の基礎、まずはここから始めます。
+## Chapter 基礎の基礎、まずはここから始めます。
 
-- [Ex1 Markdown](/exercises/ex1/README.md)
-- [Exercise2 GitHub Flow](/exercises/ex2/README.md)
-- [Exercise3 GitHub Issues](/exercises/ex3/README.md)
-- [Exercise4 GitHub Labels](/exercises/ex4/README.md)
-- [Exercise5 GitHub Projects Part1](/exercises/ex5/README.md)
-- [Exercise6 Develop Environment shell](/exercises/ex6/README.md)
-- [Exercise7 Develop Environment git](/exercises/ex7/README.md)
-- [Exercise8 Develop Environment golang](/exercises/ex8/README.md)
-- [Exercise12 よく使用するUNIXコマンド](/exercises/ex12/README.md)
+1. [Markdown](/exercises/ex1/README.md)
+2. [GitHub Flow](/exercises/ex2/README.md)
+3. [GitHub Issues](/exercises/ex3/README.md)
+4. [GitHub Labels](/exercises/ex4/README.md)
+5. [GitHub Projects Part1](/exercises/ex5/README.md)
+6. [Develop Environment shell](/exercises/ex6/README.md)
+7. [Develop Environment git](/exercises/ex7/README.md)
+8. [Develop Environment golang](/exercises/ex8/README.md)
+9. [よく使用するUNIXコマンド](/exercises/ex12/README.md)
 
 
 ## Chapter Create My Site

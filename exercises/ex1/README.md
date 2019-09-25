@@ -1,4 +1,4 @@
-# Ex1 Markdown
+# Markdown記法で文章を書けるようになりましょう。
 
 参考情報へのリンクのサイトを読んで、Markdown記法で文章を書けるようにしてください
 
@@ -7,7 +7,7 @@
 記法については、Githubが独自拡張しているMarkdown記法を道場の公式記法とします。
 
 
-今後のIT業界でMarkdown記法で文章も書けない人は、かなり困った人扱いされるので真剣に取り組みましょう。
+今後のIT業界では、Markdown記法で文章が書けないと不利ですので、真剣に取り組みましょう。
 
 
 ## 理解度チェック
@@ -17,6 +17,10 @@
 
 
 [Markdownテスト問題](https://gist.github.com/bcts369/855b44f5de5a9962e84252bcf4b68934)
+
+回答用のMarkdownも Gistで書いて、アドレスをSlackのDMで教えてください。
+
+[Gist の作成](https://help.github.com/ja/articles/creating-gists#creating-a-gist) 参考にしてください。
 
 
 ## 参考情報へのリンク

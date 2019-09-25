@@ -1,4 +1,4 @@
-# Exercise2 GitHub Flow
+# 2. GitHub Flow
 
 ## はじめに
 
