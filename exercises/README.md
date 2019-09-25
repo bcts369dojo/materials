@@ -11,7 +11,7 @@
 
 基礎の基礎、まずはここから始めます。
 
-- [Exercise1 Markdown](/exercises/exercise1/README.md)
+- [Ex1 Markdown](/exercises/ex1/README.md)
 - [Exercise2 GitHub Flow](/exercises/exercise2/README.md)
 - [Exercise3 GitHub Issues](/exercises/exercise3/README.md)
 - [Exercise4 GitHub Labels](/exercises/exercise4/README.md)
