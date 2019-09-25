@@ -12,14 +12,14 @@
 基礎の基礎、まずはここから始めます。
 
 - [Ex1 Markdown](/exercises/ex1/README.md)
-- [Exercise2 GitHub Flow](/exercises/exercise2/README.md)
-- [Exercise3 GitHub Issues](/exercises/exercise3/README.md)
-- [Exercise4 GitHub Labels](/exercises/exercise4/README.md)
-- [Exercise5 GitHub Projects Part1](/exercises/exercise5/README.md)
-- [Exercise6 Develop Environment shell](/exercises/exercise6/README.md)
-- [Exercise7 Develop Environment git](/exercises/exercise7/README.md)
-- [Exercise8 Develop Environment golang](/exercises/exercise8/README.md)
-- [Exercise12 よく使用するUNIXコマンド](/exercises/exercise12/README.md)
+- [Exercise2 GitHub Flow](/exercises/ex2/README.md)
+- [Exercise3 GitHub Issues](/exercises/ex3/README.md)
+- [Exercise4 GitHub Labels](/exercises/ex4/README.md)
+- [Exercise5 GitHub Projects Part1](/exercises/ex5/README.md)
+- [Exercise6 Develop Environment shell](/exercises/ex6/README.md)
+- [Exercise7 Develop Environment git](/exercises/ex7/README.md)
+- [Exercise8 Develop Environment golang](/exercises/ex8/README.md)
+- [Exercise12 よく使用するUNIXコマンド](/exercises/ex12/README.md)
 
 
 ## Chapter Create My Site
