@@ -28,7 +28,7 @@ Go言語の基本を理解しましょう。
 
 1. [Go Basics1](/exercises/ex9/README.md)
 2. [Go Basics2](/exercises/ex10/README.md)
-3 .[Go Basics3](/exercises/ex11/README.md)
+3. [Go Basics3](/exercises/ex11/README.md)
 4. 理解度チェック１
 5. Go Basics Methods and interfaces
 6. 理解度チェック２
