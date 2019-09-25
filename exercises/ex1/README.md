@@ -33,10 +33,13 @@ https://guides.github.com/features/mastering-markdown/
 https://github.github.com/gfm/
 
 
-### ツール
+### Markdownエディタ
 
 - https://stackedit.io/
 - https://boostnote.io/
 - https://typora.io/
 
 もちろん、VSCodeも標準プラグインで対応されています。
+
+- [Markdown editing with Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
+
