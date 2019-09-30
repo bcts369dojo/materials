@@ -1,4 +1,4 @@
-# Exercise6 GitHub Issue and PRs templates
+# GitHub Issue and PRs templates
 
 ## はじめに
 
@@ -12,9 +12,5 @@ CONTRIBUTING.md          | Pull Request時のガイドライン
 
 
 例えば、ISSUE_TEMPLATE.mdファイルを配置すると、Issue作成時にの説明記入エリアにテキストが挿入されます。
-
-
-
-## 理解度チェック
 
 

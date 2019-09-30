@@ -1,5 +1,8 @@
+# Go言語基礎の理解度チェック
 
 次のコードを実行すると、どのように表示されますか？
+
+実行せずに考えて答えてください。回答はSlackのDMでお願いします。
 
 <!-- https://github.com/GoesToEleven/GolangTraining/blob/master/03_variables/01_shorthand/01/main.go -->
 
@@ -12,11 +15,11 @@ func main() {
 
 	a := 10　
 	b := "golang"
-	c := 4.17
+	c := 9.99
 	d := true
 	e := "Hello"
-	f := `Do you like my hat?`
-	g := 'M'
+	f := `Do you like golang?`
+	g := 'A'
 
 	fmt.Printf("%v \n", a)
 	fmt.Printf("%v \n", b)
@@ -28,7 +31,6 @@ func main() {
 }
 
 ```
-
 
 どのような型が表示されますか？
 
@@ -44,11 +46,11 @@ func main() {
 
 	a := 10
 	b := "golang"
-	c := 4.17
+	c := 9.99
 	d := true
 	e := "Hello"
-	f := `Do you like my hat?`
-	g := 'M'
+	f := `Do you like golang?`
+	g := 'A'
 
 	fmt.Printf("%T \n", a)
 	fmt.Printf("%T \n", b)

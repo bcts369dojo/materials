@@ -1,4 +1,4 @@
-# 2. GitHub Flow
+# GitHub Flow
 
 ## はじめに
 

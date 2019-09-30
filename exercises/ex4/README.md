@@ -1,4 +1,4 @@
-# Exercise4 Labels
+# Github Labels
 
 ## はじめに
 

@@ -1,4 +1,4 @@
-# Exercise9 Go Basic1
+# Go Basic1
 
 Goプログラムの基本的なコンポーネントを学びます。
 

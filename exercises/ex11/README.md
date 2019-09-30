@@ -1,4 +1,4 @@
-# Exercise11 Go Basics3
+# Go Basics3
 
 既存の型に基づいて新しい型を定義する方法を学ぶ: このレッスンでは構造体、配列、slice、map について学びます。
 

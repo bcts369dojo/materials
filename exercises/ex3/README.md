@@ -1,4 +1,4 @@
-# Exercise3 Issue
+# Github Issue
 
 ## はじめに
 

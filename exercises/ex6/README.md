@@ -1,4 +1,4 @@
-# Exercise6 開発環境構築（shell)
+# 開発環境構築（shell)
 
 ## はじめに
 
@@ -33,26 +33,58 @@ plugins=(
 )
 ```
 
-## 理解度チェック
+## インストールチェック
 
 正しくインストールされているか確認します。プルリクエストは必要ないので、Slackに連絡ください。
 
 
 ### シェルがBashからZshに変更されているかどうか？
 
-次のコマンドをターミナルで実行し、結果を教えてください。
+次のコマンドをターミナルで実行してください。
 
 ```shell
 echo $SHELL
 ```
 
+macOSの場合は、
+```
+/bin/zsh
+```
+
+Ubuntuの場合は、
+```
+/usr/bin/zsh
+```
+
+と表示されればOKです。
+
 ### 設定フレームワークである`Oh My ZSH!`が正しくインストールされているか？
 
-次のコマンドをターミナルで実行し、結果を教えてください。
+次のコマンドをターミナルで実行してください。
 
 ```shell
-ls ~/.oh-my-zsh
+ls -1 ~/.oh-my-zsh
 ```
+
+次のようなファイルが表示されればOKです。
+
+```
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+cache
+custom
+lib
+log
+oh-my-zsh.sh
+plugins
+templates
+themes
+tools
+```
+
+
 
 ## 参考情報へのリンク
 

@@ -1,4 +1,4 @@
-# Exercise10 Go Basics2
+# Go Basics2
 
 条件文とループ、switch、defer を使ってコードの流れをコントロールする方法を学びます。
 

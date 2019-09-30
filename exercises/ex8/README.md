@@ -1,4 +1,4 @@
-# Exercise8 開発環境構築（golang)
+# 開発環境構築（golang)
 
 ## はじめに
 
