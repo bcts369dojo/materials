@@ -12,6 +12,7 @@
 まずはここから始めます。
 
 1. [Markdown](/exercises/ex1/README.md)
+2. [よく使用するUNIXコマンド](/exercises/ex12/README.md)
 2. [GitHub Flow](/exercises/ex2/README.md)
 3. [GitHub Issues](/exercises/ex3/README.md)
 4. [GitHub Labels](/exercises/ex4/README.md)
@@ -19,7 +20,6 @@
 6. [Develop Environment shell](/exercises/ex6/README.md)
 7. [Develop Environment git](/exercises/ex7/README.md)
 8. [Develop Environment golang](/exercises/ex8/README.md)
-9. [よく使用するUNIXコマンド](/exercises/ex12/README.md)
 
 
 ## Chapter Golang Basic
