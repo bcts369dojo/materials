@@ -1,26 +1,36 @@
-# Go Basics2
+# Go Basics 演習1
 
-条件文とループ、switch、defer を使ってコードの流れをコントロールする方法を学びます。
+Go言語の基礎の演習では、Githubのプルリクエストは使用しません、SlackのDMにて回答をご連絡ください。
 
-## はじめに
+次のコードを実行すると、どのように表示されますか？
 
-他の言語を学んだことがない方にとっては、多少敷居が高いかもしれませんが、頑張って理解しましょう。
+実行せずに、頭で考えて答えてください。
 
-なお、全項目が理解できなくても構いませんが、その場合は、どれがわからなかったかは伝えてください。
-
-また、プログラミング初心者向けの詳細な説明が少ないので、わからないことがあれば、参考情報へのリンク先やググるなどして調べてください。
-
-- [Flow control statements: for, if, else, switch and defer](https://go-tour-jp.appspot.com/flowcontrol/1)
-
-**最初の段階では、何故とか疑問に思ったり、詳細を調べるのではなく、「そういうもんか」程度に考えて、どちらかというとパターンを覚えるだけに徹すると良いと思います。**
-
-## 理解度チェック
-
-Exercise11 Go Basic3 完了後にまとめて行います。
+ヒント： 以下のコードは自動的に変数に割り当てられた「値」が表示されます。
 
 
-## 参考情報へのリンク
+```go
+package main
 
-- [Welcome to a tour of Go](https://go-tour-jp.appspot.com/list)
-- [Flow control statements: for, if, else, switch and defer](https://go-tour-jp.appspot.com/flowcontrol/1)
-- [Goプログラミング言語仕様 - golang.jp](http://golang.jp/go_spec)
+import "fmt"
+
+func main() {
+
+	a := 10　
+	b := "golang"
+	c := 9.99
+	d := true
+	e := "Hello"
+	f := `Do you like golang?`
+	g := 'A'
+
+	fmt.Printf("%v \n", a)
+	fmt.Printf("%v \n", b)
+	fmt.Printf("%v \n", c)
+	fmt.Printf("%v \n", d)
+	fmt.Printf("%v \n", e)
+	fmt.Printf("%v \n", f)
+	fmt.Printf("%v \n", g)
+}
+
+```

@@ -13,27 +13,22 @@
 
 1. [Markdown](/exercises/ex1/README.md)
 2. [よく使用するUNIXコマンド](/exercises/ex12/README.md)
-2. [GitHub Flow](/exercises/ex2/README.md)
-3. [GitHub Issues](/exercises/ex3/README.md)
-4. [GitHub Labels](/exercises/ex4/README.md)
-5. [GitHub Projects Part1](/exercises/ex5/README.md)
-6. [Develop Environment shell](/exercises/ex6/README.md)
-7. [Develop Environment git](/exercises/ex7/README.md)
-8. [Develop Environment golang](/exercises/ex8/README.md)
+3. [GitHub Flow](/exercises/ex2/README.md)
+4. [GitHub Issues](/exercises/ex3/README.md)
+5. [GitHub Labels](/exercises/ex4/README.md)
+6. [GitHub Projects](/exercises/ex5/README.md)
+7. [開発環境 shell](/exercises/ex6/README.md)
+8. [開発環境 git](/exercises/ex7/README.md)
+9. [開発環境 golang](/exercises/ex8/README.md)
 
 
 ## Chapter Golang Basic
 
 Go言語の基本を理解しましょう。
 
-1. [Go Basics1](/exercises/ex9/README.md)
-2. [Go Basics2](/exercises/ex10/README.md)
-3. [Go Basics3](/exercises/ex11/README.md)
-4. 理解度チェック１
-5. Go Basics Methods and interfaces
-6. 理解度チェック２
-7. Go Basics Concurrency
-8. 理解度チェック３
+1. [Go言語チュートリアル](/exercises/ex9/README.md)
+2. [演習1](/exercises/ex10/README.md)
+2. [演習2](/exercises/ex11/README.md)
 
 ## Chapter Go言語 ステップ2
 

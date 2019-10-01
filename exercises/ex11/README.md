@@ -1,36 +1,37 @@
-# Go Basics3
 
-既存の型に基づいて新しい型を定義する方法を学ぶ: このレッスンでは構造体、配列、slice、map について学びます。
+# Go Basics 演習2
 
-## はじめに
+Go言語の基礎の演習では、Githubのプルリクエストは使用しません、SlackのDMにて回答をご連絡ください。
 
-他の言語を学んだことがない方にとっては、多少敷居が高いかもしれませんが、頑張って理解しましょう。
+次のコードを実行すると、どのように表示されますか？
 
-なお、全項目が理解できなくても構いませんが、その場合、どれがわからなかったかは伝えてください。
+実行せずに、頭で考えて答えてください。
 
-また、プログラミング初心者向けの詳細な説明が少ないので、わからないことがあれば、参考情報へのリンク先やググるなどして調べてください。
-
-- [More types: structs, slices, and maps](https://go-tour-jp.appspot.com/moretypes/1)
-
-**最初の段階では、何故とか疑問に思ったり、詳細を調べるのではなく、「そういうもんか」程度に考えて、どちらかというとパターンを覚えるだけに徹すると良いと思います。**
-
-## 理解度チェック
-
-エクササイズ9 〜 11をまとめてチェックします。
-
-課題を最初に乗せてしまうと、その課題をクリアするための勉強になりがちですので、ここでは示しません。
-
-チェックを受けても良いと自己判断したらご連絡ください。課題を伝えます。
-課題チェックを受ける準備が終わったら、イシュー（Issue）して起票してください。
-例） エクササイズ11の理解度チェック
-
-課題は、イシュー内で伝えます。
-
-なお、全くお手上げの場合は早めにご連絡ください。
+ヒント： 以下のコードは自動的に変数に割り当てられた「型」が表示されます。
 
 
-## 参考情報へのリンク
+```go
+package main
 
-- [Welcome to a tour of Go](https://go-tour-jp.appspot.com/list)
-- [More types: structs, slices, and maps](https://go-tour-jp.appspot.com/moretypes/1)
-- [Goプログラミング言語仕様 - golang.jp](http://golang.jp/go_spec)
+import "fmt"
+
+func main() {
+
+	a := 10
+	b := "golang"
+	c := 9.99
+	d := true
+	e := "Hello"
+	f := `Do you like golang?`
+	g := 'A'
+
+	fmt.Printf("%T \n", a)
+	fmt.Printf("%T \n", b)
+	fmt.Printf("%T \n", c)
+	fmt.Printf("%T \n", d)
+	fmt.Printf("%T \n", e)
+	fmt.Printf("%T \n", f)
+	fmt.Printf("%T \n", g)
+}
+
+```
