@@ -4,10 +4,11 @@ Go言語の基礎の演習では、Githubのプルリクエストは使用しま
 
 次のコードを実行すると、どのように表示されますか？
 
-実行せずに、頭で考えて答えてください。
-
 ヒント： 以下のコードは自動的に変数に割り当てられた「値」が表示されます。
 
+https://play.golang.org/p/nbizqVcuyCE で動作確認できます。
+
+実行せずに、頭で考えて答えてください。
 
 ```go
 package main
@@ -15,8 +16,7 @@ package main
 import "fmt"
 
 func main() {
-
-	a := 10　
+	a := 10
 	b := "golang"
 	c := 9.99
 	d := true

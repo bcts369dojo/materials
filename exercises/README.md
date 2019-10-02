@@ -25,12 +25,14 @@
 ## Chapter Golang Basic
 
 Go言語の基本を理解しましょう。
+Go言語の基本の演習では、GitHubのプルリクエストは利用しませんので、何回でも独習してください。
 
 1. [Go言語チュートリアル](/exercises/ex9/README.md)
 2. [演習1](/exercises/ex10/README.md)
 2. [演習2](/exercises/ex11/README.md)
+2. [演習3](/exercises/ex12/README.md)
 
-## Chapter Go言語 ステップ2
+## Chapter Go言語 ステップ1
 
 1. ライブラリを使用してみる
 2. 自分でライブラリを作成してみる（独自パッケージ作成）
