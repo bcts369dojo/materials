@@ -1,14 +1,12 @@
-
 # Go Basics 演習3
 
-Go言語の基礎の演習では、Githubのプルリクエストは使用しません、SlackのDMにて回答をご連絡ください。
-
 次のコードをmain関数で実行すると、どのように表示されますか？
+
 `package main` と `import ("fmt")` が記述されていることを前提とします。
 
 https://play.golang.org/p/XeOXtmP1-We で動作確認できます。
 
-実行せずに、頭で考えて答えてください。
+実行せずに、頭で考えてください。
 
 ```go
 fmt.Printf("%t\n", true)
