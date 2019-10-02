@@ -25,12 +25,15 @@
 ## Chapter Golang Basic
 
 Go言語の基本を理解しましょう。
-Go言語の基本の演習では、GitHubのプルリクエストは利用しませんので、何回でも独習してください。
+Go言語の基本の演習では、GitHubのプルリクエストは利用しませんので、何回でも独習してください。 質問がある場合は、Slackの `question` チャンネルで行ってください。
 
 1. [Go言語チュートリアル](/exercises/ex9/README.md)
 2. [演習1](/exercises/ex10/README.md)
 2. [演習2](/exercises/ex11/README.md)
 2. [演習3](/exercises/ex12/README.md)
+2. [演習4](/exercises/ex15/golang-basics-ex4.md)
+2. [演習5](/exercises/ex16/golang-basics-ex5.md)
+2. [演習6](/exercises/ex17/golang-basics-ex6.md)
 
 ## Chapter Go言語 ステップ1
 
