@@ -36,6 +36,7 @@ Go言語の基本の演習では、GitHubのプルリクエストは利用しま
 2. [演習6](/exercises/ex17/golang-basics-ex6.md)
 2. [演習7](/exercises/ex18/golang-basics-ex7.md)
 2. [演習8](/exercises/ex19/golang-basics-ex8.md)
+2. [演習9](/exercises/ex20/golang-basics-ex9.md)
 
 以降準備中
 
