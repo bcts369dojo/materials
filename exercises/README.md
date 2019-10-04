@@ -30,7 +30,7 @@ Go言語の基本の演習では、GitHubのプルリクエストは利用しま
 1. [Go言語チュートリアル](/exercises/ex9/README.md)
 2. [演習1 変数](/exercises/ex10/README.md)
 2. [演習2 変数](/exercises/ex11/README.md)
-2. [演習3 よく使用するUNIXコマンド](/exercises/ex12/README.md)
+2. 演習3 変数
 2. [演習4 ゼロ値](/exercises/ex15/golang-basics-ex4.md)
 2. [演習5 スコープ](/exercises/ex16/golang-basics-ex5.md)
 2. [演習6 変数シャドウイング](/exercises/ex17/golang-basics-ex6.md)
