@@ -51,10 +51,10 @@ Go 言語の基本の演習では、GitHub のプルリクエストは利用し�
 24. [演習 23 Switch 文](/exercises/ex34/golang-basics-ex23.md)
 25. [演習 24 Switch 文](/exercises/ex35/golang-basics-ex24.md)
 26. [演習 25 Switch 文](/exercises/ex36/golang-basics-ex25.md)
-27. [演習 26 Switch 文](/exercises/ex37/golang-basics-ex26.md)
-28. [演習 27 Switch 文](/exercises/ex38/golang-basics-ex27.md)
-29. [演習 28 Switch 文](/exercises/ex39/golang-basics-ex28.md)
-30. [演習 29 Switch 文](/exercises/ex40/golang-basics-ex29.md)
+27. [演習 26 if 文](/exercises/ex37/golang-basics-ex26.md)
+28. [演習 27 if 文](/exercises/ex38/golang-basics-ex27.md)
+29. [演習 28 if 文](/exercises/ex39/golang-basics-ex28.md)
+30. [演習 29 if 文](/exercises/ex40/golang-basics-ex29.md)
 
 以降準備中
 
