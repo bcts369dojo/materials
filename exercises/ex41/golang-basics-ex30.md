@@ -1,4 +1,4 @@
-# Go Basics 演習 30 if 文
+# Go Basics 演習 30 Function
 
 次のコードを実行すると、どのように表示されますか？
 
