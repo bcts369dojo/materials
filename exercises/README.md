@@ -55,6 +55,7 @@ Go 言語の基本の演習では、GitHub のプルリクエストは利用し�
 28. [演習 27 if 文](/exercises/ex38/golang-basics-ex27.md)
 29. [演習 28 if 文](/exercises/ex39/golang-basics-ex28.md)
 30. [演習 29 if 文](/exercises/ex40/golang-basics-ex29.md)
+31. [演習 30 if 文](/exercises/ex41/golang-basics-ex30.md)
 
 以降準備中
 
