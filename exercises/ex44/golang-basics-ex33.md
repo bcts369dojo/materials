@@ -1,4 +1,4 @@
-# Go Basics 演習 32 Function
+# Go Basics 演習 33 Function
 
 次のコードを実行すると、どのように表示されますか？
 
