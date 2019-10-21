@@ -73,6 +73,7 @@ Go 言語の基本の演習では、GitHub のプルリクエストは利用し�
 46. [演習 45 slice 文](/exercises/ex56/golang-basics-ex45.md)
 47. [演習 46 slice 文](/exercises/ex57/golang-basics-ex46.md)
 48. [演習 47 slice 文](/exercises/ex58/golang-basics-ex47.md)
+49. [演習 48 slice 文](/exercises/ex59/golang-basics-ex48.md)
 
 以降準備中
 

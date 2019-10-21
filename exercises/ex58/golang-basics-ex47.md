@@ -1,25 +1,24 @@
-# Go Basics 演習 47 slice 
+# Go Basics 演習 47 slice
 
 次のコードを実行すると、どのように表示されますか？
 
-ヒント: 可変長配列に要素を追加する例です。 
+ヒント: 可変長配列に要素を追加する例です。
 
-https://play.golang.org/p/lvqP_A-vpp1 動作確認できます。
-
+https://play.golang.org/p/bOgpomRJEkl 動作確認できます。
 
 ```go
-// bcts369道場 Go Basics 演習47 slice
 package main
 
 import "fmt"
 
 func main() {
+        mySlice1 := []string{"1", "2"}
+        mySlice2 := []string{"3", "4", "5"}
 
-        intSlice1 := []int{1, 2, 3, 4, 5}
-        intSlice2 := []int{6, 7, 8, 9}
+        mySlice1 = append(mySlice1, mySlice2...)
+        fmt.Println(mySlice1)
 
-        intSlice1 = append(intSlice1, intSlice2...)
-
-        fmt.Println(intSlice1)
+        mySlice1 = append(mySlice1[:2], mySlice1[3:]...)
+        fmt.Println(mySlice1)
 }
 ```
