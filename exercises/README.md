@@ -81,6 +81,7 @@ Go 言語の基本の演習では、GitHub のプルリクエストは利用し�
 54. [演習 53 map](/exercises/ex64/golang-basics-ex53.md)
 55. [演習 54 map](/exercises/ex65/golang-basics-ex54.md)
 56. [演習 55 map](/exercises/ex66/golang-basics-ex55.md)
+57. [演習 56 map](/exercises/ex67/golang-basics-ex56.md)
 
 以降準備中
 
