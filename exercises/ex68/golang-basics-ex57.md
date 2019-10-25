@@ -4,7 +4,7 @@
 
 ヒント: mapの要素削除。
 
-で動作確認できます。
+https://play.golang.org/p/LMp0lmleCkN で動作確認できます。
 
 ```go
 // bcts369道場 Go Basics 演習57 map
@@ -25,8 +25,7 @@ func main() {
 	myMap["bloodtype"] = "A"  // 内容も変更できます
 	fmt.Println(myMap)
 
-	delete(myMap, "bloodtype")
+	delete(myMap, "bloodtype") // 要素を削除
 	fmt.Println(myMap)
 }
-
 ```
