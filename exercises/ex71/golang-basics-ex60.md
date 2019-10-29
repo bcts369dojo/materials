@@ -1,15 +1,15 @@
-# Go Basics 演習 59 map
+# Go Basics 演習 60 map
 
 次のコードを実行すると、どのように表示されますか？
 
-存在しないキーを削除しようとしてもエラーは発生しません。ですから、要素を削除する前に存在するかどうかを確認すべきです。
+演習 59 の続きです。存在しないキーを削除しようとしてもエラーは発生しません。ですから、要素を削除する前に存在するかどうかを確認すべきです。
 
 ヒント: map の要素の存在判定と削除。
 
-https://play.golang.org/p/-rf1iGJouRX で動作確認できます。
+https://play.golang.org/p/c_WFDVMsLOl で動作確認できます。
 
 ```go
-// bcts369道場 Go Basics 演習59 map
+// bcts369道場 Go Basics 演習60 map
 package main
 
 import "fmt"
@@ -27,17 +27,15 @@ func main() {
 	myMap["bloodtype"] = "A" // 内容も変更できます
 	fmt.Println(myMap)
 
-	if value, exists := myMap["hoge"]; exists {
+	if value, exists := myMap["bloodtype"]; exists {
 		fmt.Println("値が存在します。")
 		fmt.Println("value: ", value)
 		fmt.Println("exists: ", exists)
+		delete(myMap, "bloodtype") // 要素が存在するならば削除する
 	} else {
 		fmt.Println("値が存在しません。")
 		fmt.Println("value: ", value)
 		fmt.Println("exists: ", exists)
 	}
-
-	delete(myMap, "hoge") // hogeというキーは存在しない。エラーは発生する？
-
 }
 ```
