@@ -1,4 +1,4 @@
-# Go Basics 演習 62 map
+# Go Basics 演習 62 struct
 
 次のコードを実行すると、どのように表示されますか？
 
