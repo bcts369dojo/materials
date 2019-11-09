@@ -1,6 +1,6 @@
-# Go Basics 演習 66 struct
+# Go Basics 演習 67 struct
 
-次のコードを実行すると、どのように表示されますか？
+次のコードを実行すると、JSON 文字列が空（{}）として表示されます。なぜでしょうか？
 
 ヒント: 次の公式ドキュメントを読むか 0、 `json.Marshal` でググってみましょう。
 
@@ -10,7 +10,7 @@
 https://play.golang.org/p/_CR6QgFgIaT で動作確認できます。
 
 ```go
-// bcts369道場 Go Basics 演習66 struct
+// bcts369道場 Go Basics 演習67 struct
 package main
 
 import (
@@ -19,8 +19,8 @@ import (
 )
 
 type person struct {
-	Name string
-	Age  int
+	name string
+	age  int
 }
 
 func main() {
@@ -28,6 +28,6 @@ func main() {
 	bs, _ := json.Marshal(taro)
 	fmt.Println(bs)
 	fmt.Printf("%T \n", bs)
-	fmt.Println(string(bs))
+	fmt.Println(string(bs)) // {}と表示される
 }
 ```
