@@ -102,6 +102,7 @@ Go 言語の基本の演習では、GitHub のプルリクエストは利用し�
 75. [演習 74 interface](/exercises/ex85/golang-basics-ex74.md)
 76. [演習 75 interface](/exercises/ex86/golang-basics-ex75.md)
 77. [演習 76 interface](/exercises/ex87/golang-basics-ex76.md)
+78. [演習 77 interface](/exercises/ex88/golang-basics-ex77.md)
 
 以降準備中
 
