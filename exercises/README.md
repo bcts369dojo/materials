@@ -98,6 +98,11 @@ Go 言語の基本の演習では、GitHub のプルリクエストは利用し�
 71. [演習 70 struct](/exercises/ex81/golang-basics-ex70.md)
 72. [演習 71 struct](/exercises/ex82/golang-basics-ex71.md)
 73. [演習 72 struct](/exercises/ex83/golang-basics-ex72.md)
+74. [演習 73 interface](/exercises/ex84/golang-basics-ex73.md)
+75. [演習 74 interface](/exercises/ex85/golang-basics-ex74.md)
+76. [演習 75 interface](/exercises/ex86/golang-basics-ex75.md)
+77. [演習 76 interface](/exercises/ex87/golang-basics-ex76.md)
+78. [演習 77 interface](/exercises/ex88/golang-basics-ex77.md)
 
 以降準備中
 
