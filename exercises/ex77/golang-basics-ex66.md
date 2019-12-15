@@ -2,7 +2,7 @@
 
 次のコードを実行すると、どのように表示されますか？
 
-ヒント: 次の公式ドキュメントを読むか 0、 `json.Marshal` でググってみましょう。
+ヒント: 次の公式ドキュメントを読むか `json.Marshal` でググってみましょう。
 
 - https://golang.org/src/encoding/json/encode.go?s=6471:6514#L148
 - https://xn--go-hh0g6u.com/pkg/encoding/json/#Marshal
