@@ -107,6 +107,7 @@ Go 言語の基本の演習では、GitHub のプルリクエストは利用し�
 80. [演習 79 goroutine](/exercises/ex90/golang-basics-ex79.md)
 81. [演習 80 goroutine](/exercises/ex91/golang-basics-ex80.md)
 82. [演習 81 goroutine](/exercises/ex92/golang-basics-ex81.md)
+83. TODO 習 82 goroutine デッドロックの例を追加する
 
 以降準備中
 
