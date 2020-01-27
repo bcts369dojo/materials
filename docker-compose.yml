@@ -1,0 +1,12 @@
+version: '3' # composeファイルのバーション指定
+services:
+  app: # service名
+    build: . # ビルドに使用するDockerfileがあるディレクトリ指定
+    container_name: mygolangenv 
+    tty: true # コンテナの起動永続化
+    volumes:
+      - ./src:/go/src/work # マウントディレクトリ指定
+    ports:
+      - "8080:8080"
+    environment:
+      GO111MODULE: "on"
