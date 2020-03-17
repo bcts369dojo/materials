@@ -108,7 +108,8 @@ Go 言語の基本の演習では、GitHub のプルリクエストは利用し�
 81. [演習 80 goroutine](/exercises/ex91/golang-basics-ex80.md)
 82. [演習 81 goroutine](/exercises/ex92/golang-basics-ex81.md)
 83. [演習 82 goroutine](/exercises/ex93/golang-basics-ex82.md)
-84. [演習 82 goroutine](/exercises/ex94/golang-basics-ex83.md)
+84. [演習 83 goroutine](/exercises/ex94/golang-basics-ex83.md)
+85. [演習 84 goroutine](/exercises/ex95/golang-basics-ex84.md)
 
 
 以降準備中
